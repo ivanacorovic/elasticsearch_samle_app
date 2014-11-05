@@ -33,7 +33,7 @@ namespace :db do
     end
   end
 
-  task :populate_once => [
+  task :populate => [
     :populate_products,
     :populate_categories
   ]
