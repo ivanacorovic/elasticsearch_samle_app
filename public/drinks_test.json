@@ -1,139 +1,62 @@
 {
   "_page": {
     "current": 1,
-    "items_per_page": 3000,
+    "items_per_page": 8000,
     "page_count": 1,
-    "item_count": 1747
+    "item_count": 7594
   },
   "_price": {
     "min": 0,
-    "max": 1200
+    "max": 4173
   },
   "_show": {
-    "all": 1747,
-    "offers": 47,
-    "new": 56,
+    "all": 7594,
+    "offers": 426,
+    "new": 279,
     "favorites": 0
   },
   "products": [
     {
-      "id": 60091646,
-      "code": "90077253",
-      "name": "Agristar Äaj kopriva list 50g",
+      "id": 50007208,
+      "code": "03140629",
+      "name": "Burn napitak 0,25 l 3+1 gratis maxi pakiranje",
       "description": " <br/> ",
-      "product_path": "/products/60091646/agristar-caj-kopriva-list-50g",
-      "image_path": "/images/products/900/90077253.gif",
-      "thumbnail_image_path": "/images/products/900/90077253s.gif",
-      "product_details_path": "/products/60091646",
+      "product_path": "/products/50007208/burn-napitak-0-25-l-3-1-gratis-maxi-pakiranje",
+      "image_path": "/images/products/031/03140629.gif",
+      "thumbnail_image_path": "/images/products/031/03140629s.gif",
+      "product_details_path": "/products/50007208",
       "manufacturer": null,
       "sales_unit_of_measure": "Ko",
       "quantity_step": 1.0,
       "min_order_quantity": 1.0,
-      "netto_weight_factor": 0.05,
+      "netto_weight_factor": 1.0,
       "sliceable": false,
       "catch_weight": 0,
       "has_image": true,
       "requires_deposit_packaging": false,
-      "image_s": "/images/products/900/90077253s.gif",
-      "image_m": "/images/products/900/90077253m.gif",
-      "image_l": "/images/products/900/90077253l.gif",
-      "icons": [],
-      "lifetime": null,
-      "product_uoms": [
-        {
-          "id": 65021467,
-          "name": "KO",
-          "netto_weight": 50,
-          "gross_weight": 0,
-          "smaller_unit": null,
-          "smaller_unit_factor": null,
-          "dimensions": null,
-          "volume": null,
-          "barcode": null
-        },
-        {
-          "id": 65021468,
-          "name": "KT",
-          "netto_weight": null,
-          "gross_weight": null,
-          "smaller_unit": "KO",
-          "smaller_unit_factor": 24,
-          "dimensions": null,
-          "volume": null,
-          "barcode": null
-        },
-        {
-          "id": 65021469,
-          "name": "PL",
-          "netto_weight": 50,
-          "gross_weight": 205,
-          "smaller_unit": "KT",
-          "smaller_unit_factor": 60,
-          "dimensions": null,
-          "volume": null,
-          "barcode": null
-        }
-      ],
-      "barcodes": [
-        "3858886500438"
-      ],
-      "categories": [
-        {
-          "id": 60005700,
-          "name": "ÄŒaj - rinfuza"
-        },
-        {
-          "id": 60005698,
-          "name": "ÄŒaj"
-        },
-        {
-          "id": 60005688,
-          "name": "Topli napitci"
-        },
-        {
-          "id": 60005633,
-          "name": "PiÄ‡a"
-        }
-      ],
-      "active": true,
-      "price_unit_of_measure": "Ko",
-      "statistical_price": "149,80 Kn / Kg",
-      "price": {
-        "amount": 749,
-        "currency": "Kn",
-        "formatted_price": "7,49 Kn"
+      "image_s": "/images/products/031/03140629s.gif",
+      "image_m": "/images/products/031/03140629m.gif",
+      "image_l": "/images/products/031/03140629l.gif",
+      "brand": {
+        "name": "Maxi",
+        "image_path": "/assets/branding/kplus_logo-ce0450310d70210832a96c2a7dcb2762.png"
       },
-      "favorite": false
-    },
-    {
-      "id": 60075038,
-      "code": "90049186",
-      "name": "Badel liker od borovnice 1L",
-      "description": " <br/> ",
-      "product_path": "/products/60075038/badel-liker-od-borovnice-1l",
-      "image_path": "/images/products/900/90049186.gif",
-      "thumbnail_image_path": "/images/products/900/90049186s.gif",
-      "product_details_path": "/products/60075038",
-      "manufacturer": "BADEL 1862",
-      "sales_unit_of_measure": "Ko",
-      "quantity_step": 1.0,
-      "min_order_quantity": 1.0,
-      "netto_weight_factor": 0.7,
-      "sliceable": false,
-      "catch_weight": 0,
-      "has_image": true,
-      "requires_deposit_packaging": false,
-      "image_s": "/images/products/900/90049186s.gif",
-      "image_m": "/images/products/900/90049186m.gif",
-      "image_l": "/images/products/900/90049186l.gif",
-      "icons": [],
+      "icons": [
+        {
+          "type": "brand",
+          "image": {
+            "media_device": "/assets/icons/maxi_media_device.png",
+            "mobile": "/assets/icons/maxi_mobile.png"
+          }
+        }
+      ],
       "lifetime": null,
       "product_uoms": [
         {
-          "id": 64778163,
+          "id": 65037046,
           "name": "KO",
-          "netto_weight": 700,
-          "gross_weight": 1750,
+          "netto_weight": 1000,
+          "gross_weight": 1133,
           "smaller_unit": null,
           "smaller_unit_factor": null,
           "dimensions": null,
@@ -141,227 +64,142 @@
           "barcode": null
         },
         {
-          "id": 64778164,
+          "id": 65037047,
           "name": "KT",
-          "netto_weight": 4200,
-          "gross_weight": 10500,
+          "netto_weight": 1000,
+          "gross_weight": 6799,
           "smaller_unit": "KO",
-          "smaller_unit_factor": 6,
+          "smaller_unit_factor": 1,
           "dimensions": null,
           "volume": null,
           "barcode": null
         },
         {
-          "id": 64778165,
+          "id": 65037048,
           "name": "PL",
-          "netto_weight": 352800,
-          "gross_weight": 882000,
+          "netto_weight": 1000,
+          "gross_weight": 807300,
           "smaller_unit": "KT",
-          "smaller_unit_factor": 84,
+          "smaller_unit_factor": 80,
           "dimensions": null,
           "volume": null,
           "barcode": null
         }
       ],
       "barcodes": [
-        "3850112110916"
+        "5000112559439"
       ],
       "categories": [
         {
-          "id": 60005653,
-          "name": "Likeri"
+          "id": 60005682,
+          "name": "Energetski napitci"
         },
         {
-          "id": 60005647,
-          "name": "Jaka alkoholna piÄ‡a"
-        },
-        {
-          "id": 60005634,
-          "name": "Alkoholna piÄ‡a"
-        },
-        {
-          "id": 60005633,
-          "name": "PiÄ‡a"
-        }
-      ],
-      "active": true,
-      "price_unit_of_measure": "Ko",
-      "statistical_price": "82,99 Kn / L",
-      "price": {
-        "amount": 8299,
-        "currency": "Kn",
-        "formatted_price": "82,99 Kn"
-      },
-      "favorite": false
-    },
-    {
-      "id": 50006812,
-      "code": "03081468",
-      "name": "Bushmills original whiskey 0,7 l",
-      "description": " <br/> ",
-      "product_path": "/products/50006812/bushmills-original-whiskey-0-7-l",
-      "image_path": "/images/products/030/03081468.gif",
-      "thumbnail_image_path": "/images/products/030/03081468s.gif",
-      "product_details_path": "/products/50006812",
-      "manufacturer": "THE OLD BUSHMLLS DISTILLERY CO.LTD",
-      "sales_unit_of_measure": "Ko",
-      "quantity_step": 1.0,
-      "min_order_quantity": 1.0,
-      "netto_weight_factor": 0.7,
-      "sliceable": false,
-      "catch_weight": 0,
-      "has_image": true,
-      "requires_deposit_packaging": false,
-      "image_s": "/images/products/030/03081468s.gif",
-      "image_m": "/images/products/030/03081468m.gif",
-      "image_l": "/images/products/030/03081468l.gif",
-      "icons": [],
-      "lifetime": null,
-      "product_uoms": [
-        {
-          "id": 64646272,
-          "name": "KO",
-          "netto_weight": 700,
-          "gross_weight": 1240,
-          "smaller_unit": null,
-          "smaller_unit_factor": null,
-          "dimensions": null,
-          "volume": null,
-          "barcode": null
-        },
-        {
-          "id": 64646273,
-          "name": "KT",
-          "netto_weight": 4200,
-          "gross_weight": 7440,
-          "smaller_unit": "KO",
-          "smaller_unit_factor": 6,
-          "dimensions": null,
-          "volume": null,
-          "barcode": null
-        },
-        {
-          "id": 64646274,
-          "name": "PL",
-          "netto_weight": 437000,
-          "gross_weight": 774000,
-          "smaller_unit": "KT",
-          "smaller_unit_factor": 104,
-          "dimensions": null,
-          "volume": null,
-          "barcode": null
-        }
-      ],
-      "barcodes": [
-        "5010103917087",
-        "5011007006075"
-      ],
-      "categories": [
-        {
-          "id": 60005652,
-          "name": "Whiskey"
-        },
-        {
-          "id": 60005647,
-          "name": "Jaka alkoholna piÄ‡a"
-        },
-        {
-          "id": 60005634,
-          "name": "Alkoholna piÄ‡a"
-        },
-        {
-          "id": 60005633,
-          "name": "PiÄ‡a"
-        }
-      ],
-      "active": true,
-      "price_unit_of_measure": "Ko",
-      "statistical_price": "192,84 Kn / L",
-      "price": {
-        "amount": 13499,
-        "currency": "Kn",
-        "formatted_price": "134,99 Kn"
-      },
-      "favorite": false
-    },
-    {
-      "id": 50011791,
-      "code": "04182738",
-      "name": "Cedevita grejp 200 g",
-      "description": " <br/> ",
-      "product_path": "/products/50011791/cedevita-grejp-200-g",
-      "image_path": "/images/products/041/04182738.gif",
-      "thumbnail_image_path": "/images/products/041/04182738s.gif",
-      "product_details_path": "/products/50011791",
-      "manufacturer": "CEDEVITA d.o.o.",
-      "sales_unit_of_measure": "Ko",
-      "quantity_step": 1.0,
-      "min_order_quantity": 1.0,
-      "netto_weight_factor": 0.2,
-      "sliceable": false,
-      "catch_weight": 0,
-      "has_image": true,
-      "requires_deposit_packaging": false,
-      "image_s": "/images/products/041/04182738s.gif",
-      "image_m": "/images/products/041/04182738m.gif",
-      "image_l": "/images/products/041/04182738l.gif",
-      "icons": [],
-      "lifetime": null,
-      "product_uoms": [
-        {
-          "id": 65000653,
-          "name": "KO",
-          "netto_weight": 200,
-          "gross_weight": 238,
-          "smaller_unit": null,
-          "smaller_unit_factor": null,
-          "dimensions": null,
-          "volume": null,
-          "barcode": null
-        },
-        {
-          "id": 65000654,
-          "name": "KT",
-          "netto_weight": 6000,
-          "gross_weight": 6000,
-          "smaller_unit": "KO",
-          "smaller_unit_factor": 30,
-          "dimensions": null,
-          "volume": null,
-          "barcode": null
-        },
-        {
-          "id": 65000655,
-          "name": "PL",
-          "netto_weight": 324000,
-          "gross_weight": 324000,
-          "smaller_unit": "KT",
-          "smaller_unit_factor": 54,
-          "dimensions": null,
-          "volume": null,
-          "barcode": null
-        }
-      ],
-      "barcodes": [
-        "3850322003541"
-      ],
-      "categories": [
-        {
-          "id": 60005687,
-          "name": "PraÅ¡kasti napitci"
+          "id": 60005681,
+          "name": "Energetski i izotonični napitci"
         },
         {
           "id": 60005662,
-          "name": "Bezalkoholna piÄ‡a"
+          "name": "Bezalkoholna pića"
         },
         {
           "id": 60005633,
-          "name": "PiÄ‡a"
+          "name": "Pića"
         }
       ],
       "active": true,
       "price_unit_of_measure": "Ko",
-      "statistical_price": "62,45 Kn / Kg",
+      "statistical_price": "29,99 Kn / L",
+      "price": {
+        "amount": 2999,
+        "currency": "Kn",
+        "formatted_price": "29,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50007246,
+      "code": "03140904",
+      "name": "Cappy nektar crni ribizl 1 l",
+      "description": "NEKTAR CRNI RIBIZ CAPPY 1L <br/> ",
+      "product_path": "/products/50007246/cappy-nektar-crni-ribizl-1-l",
+      "image_path": "/images/products/031/03140904.gif",
+      "thumbnail_image_path": "/images/products/031/03140904s.gif",
+      "product_details_path": "/products/50007246",
+      "manufacturer": "COCA-COLA HBC HRVATSKA d.o.o.",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": null,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/031/03140904s.gif",
+      "image_m": "/images/products/031/03140904m.gif",
+      "image_l": "/images/products/031/03140904l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64768425,
+          "name": "KO",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64768426,
+          "name": "KT",
+          "netto_weight": 1042,
+          "gross_weight": 7186,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 6,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64768427,
+          "name": "PL",
+          "netto_weight": 1042,
+          "gross_weight": 834500,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 116,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "5449000032072",
+        "5449000037237"
+      ],
+      "categories": [
+        {
+          "id": 60005674,
+          "name": "Tetrapak – veliko pakiranje"
+        },
+        {
+          "id": 60005673,
+          "name": "Prirodni sokovi"
+        },
+        {
+          "id": 60005662,
+          "name": "Bezalkoholna pića"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "12,49 Kn / L",
       "price": {
         "amount": 1249,
         "currency": "Kn",
@@ -370,14 +208,188 @@
       "favorite": false
     },
     {
-      "id": 50009963,
-      "code": "04095668",
-      "name": "ÄŒaj English breakfast 50 g",
+      "id": 50006172,
+      "code": "03020231",
+      "name": "Chardonnay 0,75 l Orahovica",
       "description": " <br/> ",
-      "product_path": "/products/50009963/caj-english-breakfast-50-g",
-      "image_path": "/images/products/040/04095668.gif",
-      "thumbnail_image_path": "/images/products/040/04095668s.gif",
-      "product_details_path": "/products/50009963",
+      "product_path": "/products/50006172/chardonnay-0-75-l-orahovica",
+      "image_path": "/images/products/030/03020231.gif",
+      "thumbnail_image_path": "/images/products/030/03020231s.gif",
+      "product_details_path": "/products/50006172",
+      "manufacturer": "PP ORAHOVICA d.d.",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.75,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/030/03020231s.gif",
+      "image_m": "/images/products/030/03020231m.gif",
+      "image_l": "/images/products/030/03020231l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64643791,
+          "name": "KO",
+          "netto_weight": 750,
+          "gross_weight": 1354,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64643792,
+          "name": "KT",
+          "netto_weight": 9000,
+          "gross_weight": 16248,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 6,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64643793,
+          "name": "PL",
+          "netto_weight": 503370,
+          "gross_weight": 523370,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 63,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3859888114098"
+      ],
+      "categories": [
+        {
+          "id": 60005637,
+          "name": "Bijelo vino 0.75 l"
+        },
+        {
+          "id": 60005635,
+          "name": "Vino"
+        },
+        {
+          "id": 60005634,
+          "name": "Alkoholna pića"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "46,65 Kn / L",
+      "price": {
+        "amount": 3499,
+        "currency": "Kn",
+        "formatted_price": "34,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50012497,
+      "code": "04211373",
+      "name": "Ciobar napitak bijela čokolada 125 g Dr.Oetker",
+      "description": " <br/> ",
+      "product_path": "/products/50012497/ciobar-napitak-bijela-cokolada-125-g-dr-oetker",
+      "image_path": "/images/products/042/04211373.gif",
+      "thumbnail_image_path": "/images/products/042/04211373s.gif",
+      "product_details_path": "/products/50012497",
+      "manufacturer": "DR. OETKER d.o.o. P.P. 51",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.125,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/042/04211373s.gif",
+      "image_m": "/images/products/042/04211373m.gif",
+      "image_l": "/images/products/042/04211373l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 65000392,
+          "name": "KO",
+          "netto_weight": 125,
+          "gross_weight": 130,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65000393,
+          "name": "KT",
+          "netto_weight": 2000,
+          "gross_weight": 2080,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 16,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65000394,
+          "name": "PL",
+          "netto_weight": 216000,
+          "gross_weight": 225000,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 108,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "5997381334693"
+      ],
+      "categories": [
+        {
+          "id": 60005697,
+          "name": "Instant čokoladni napitci"
+        },
+        {
+          "id": 60005688,
+          "name": "Topli napitci"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "119,92 Kn / Kg",
+      "price": {
+        "amount": 1499,
+        "currency": "Kn",
+        "formatted_price": "14,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50009763,
+      "code": "04090023",
+      "name": "Čaj crveno voće 50 g Twinin",
+      "description": " <br/> ",
+      "product_path": "/products/50009763/caj-crveno-voce-50-g-twinin",
+      "image_path": "/images/products/040/04090023.gif",
+      "thumbnail_image_path": "/images/products/040/04090023s.gif",
+      "product_details_path": "/products/50009763",
       "manufacturer": "TWININGS AND COMPANY LIMITED",
       "sales_unit_of_measure": "Ko",
       "quantity_step": 1.0,
@@ -387,14 +399,14 @@
       "catch_weight": 0,
       "has_image": true,
       "requires_deposit_packaging": false,
-      "image_s": "/images/products/040/04095668s.gif",
-      "image_m": "/images/products/040/04095668m.gif",
-      "image_l": "/images/products/040/04095668l.gif",
+      "image_s": "/images/products/040/04090023s.gif",
+      "image_m": "/images/products/040/04090023m.gif",
+      "image_l": "/images/products/040/04090023l.gif",
       "icons": [],
       "lifetime": null,
       "product_uoms": [
         {
-          "id": 65005708,
+          "id": 65007331,
           "name": "KO",
           "netto_weight": 50,
           "gross_weight": 55,
@@ -405,7 +417,7 @@
           "barcode": null
         },
         {
-          "id": 65005709,
+          "id": 65007332,
           "name": "KT",
           "netto_weight": 600,
           "gross_weight": 660,
@@ -416,7 +428,7 @@
           "barcode": null
         },
         {
-          "id": 65005710,
+          "id": 65007333,
           "name": "PL",
           "netto_weight": 57600,
           "gross_weight": 63360,
@@ -428,17 +440,17 @@
         }
       ],
       "barcodes": [
-        "0070177010775",
-        "070177010775"
+        "0070177025953",
+        "070177025953"
       ],
       "categories": [
         {
           "id": 60005699,
-          "name": "ÄŒaj - filter vreÄ‡ice"
+          "name": "Čaj - filter vrećice"
         },
         {
           "id": 60005698,
-          "name": "ÄŒaj"
+          "name": "Čaj"
         },
         {
           "id": 60005688,
@@ -446,29 +458,955 @@
         },
         {
           "id": 60005633,
-          "name": "PiÄ‡a"
+          "name": "Pića"
         }
       ],
       "active": true,
       "price_unit_of_measure": "Ko",
-      "statistical_price": "479,80 Kn / Kg",
+      "statistical_price": "459,80 Kn / Kg",
       "price": {
-        "amount": 2399,
+        "amount": 2299,
         "currency": "Kn",
-        "formatted_price": "23,99 Kn"
+        "formatted_price": "22,99 Kn"
       },
       "favorite": false
     },
     {
-      "id": 50009668,
-      "code": "04070887",
-      "name": "Espresso kava 250 g - Franck",
+      "id": 60002420,
+      "code": "04090502",
+      "name": "Čaj Echinacea/malina 40 g",
       "description": " <br/> ",
-      "product_path": "/products/50009668/espresso-kava-250-g-franck",
-      "image_path": "/images/products/040/04070887.gif",
-      "thumbnail_image_path": "/images/products/040/04070887s.gif",
-      "product_details_path": "/products/50009668",
+      "product_path": "/products/60002420/caj-echinacea-malina-40-g",
+      "image_path": "/images/products/040/04090502.gif",
+      "thumbnail_image_path": "/images/products/040/04090502s.gif",
+      "product_details_path": "/products/60002420",
+      "manufacturer": "BIOFARM d.o.o. ZAGREB",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.04,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/040/04090502s.gif",
+      "image_m": "/images/products/040/04090502m.gif",
+      "image_l": "/images/products/040/04090502l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 65005588,
+          "name": "KO",
+          "netto_weight": 40,
+          "gross_weight": 62,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65005589,
+          "name": "KT",
+          "netto_weight": 960,
+          "gross_weight": 960,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 24,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65005590,
+          "name": "PL",
+          "netto_weight": 48000,
+          "gross_weight": 48000,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 50,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3858885151907"
+      ],
+      "categories": [
+        {
+          "id": 60005699,
+          "name": "Čaj - filter vrećice"
+        },
+        {
+          "id": 60005698,
+          "name": "Čaj"
+        },
+        {
+          "id": 60005688,
+          "name": "Topli napitci"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "349,75 Kn / Kg",
+      "price": {
+        "amount": 1399,
+        "currency": "Kn",
+        "formatted_price": "13,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50009934,
+      "code": "04091837",
+      "name": "Čaj kamilica 20/1 - Franck",
+      "description": "ČAJ KAMILICA FILT 20/1 20G FRANCK <br/> ",
+      "product_path": "/products/50009934/caj-kamilica-20-1-franck",
+      "image_path": "/images/products/040/04091837.gif",
+      "thumbnail_image_path": "/images/products/040/04091837s.gif",
+      "product_details_path": "/products/50009934",
       "manufacturer": "FRANCK d.d. Zagreb",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": null,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/040/04091837s.gif",
+      "image_m": "/images/products/040/04091837m.gif",
+      "image_l": "/images/products/040/04091837l.gif",
+      "icons": [
+        {
+          "type": "offer",
+          "image": {
+            "media_device": "/assets/icons/offer_media_device-bec534cd569c186c89c20bbd66d1267f.png",
+            "mobile": "/assets/icons/offer_mobile-15a6285fe21c62d48716b5f773c5a041.png"
+          }
+        }
+      ],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 65010214,
+          "name": "KO",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65010215,
+          "name": "KT",
+          "netto_weight": 400,
+          "gross_weight": 1040,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 20,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65010216,
+          "name": "PL",
+          "netto_weight": 43200,
+          "gross_weight": 112320,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 108,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3858881081420",
+        "3858881085176"
+      ],
+      "categories": [
+        {
+          "id": 60005699,
+          "name": "Čaj - filter vrećice"
+        },
+        {
+          "id": 60005698,
+          "name": "Čaj"
+        },
+        {
+          "id": 60005688,
+          "name": "Topli napitci"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "299,50 Kn / Kg",
+      "offer": {
+        "id": 61852223,
+        "offer_category_id": 60025160,
+        "type": "DiscountByPrice",
+        "start_on": "16.10.2014.",
+        "end_on": "22.10.2014.",
+        "order_of": 0,
+        "price": {
+          "amount": 599,
+          "currency": "Kn",
+          "formatted_price": "5,99 Kn"
+        },
+        "original_price": {
+          "amount": 699,
+          "currency": "Kn",
+          "formatted_price": "6,99 Kn"
+        },
+        "shop_types_supported": null,
+        "web_available_only": false
+      },
+      "price": {
+        "amount": 599,
+        "currency": "Kn",
+        "formatted_price": "5,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50006254,
+      "code": "03020416",
+      "name": "Dingač 0,75 l Madirazza",
+      "description": " <br/> ",
+      "product_path": "/products/50006254/dingac-0-75-l-madirazza",
+      "image_path": "/images/products/030/03020416.gif",
+      "thumbnail_image_path": "/images/products/030/03020416s.gif",
+      "product_details_path": "/products/50006254",
+      "manufacturer": "MADIRAZZA d.o.o",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.75,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/030/03020416s.gif",
+      "image_m": "/images/products/030/03020416m.gif",
+      "image_l": "/images/products/030/03020416l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64788645,
+          "name": "KO",
+          "netto_weight": 750,
+          "gross_weight": 1250,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64788646,
+          "name": "KT",
+          "netto_weight": 4500,
+          "gross_weight": 8250,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 6,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64788647,
+          "name": "PL",
+          "netto_weight": 450000,
+          "gross_weight": 850000,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 100,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3859889833011"
+      ],
+      "categories": [
+        {
+          "id": 60005641,
+          "name": "Crno vino 0.75 l"
+        },
+        {
+          "id": 60005635,
+          "name": "Vino"
+        },
+        {
+          "id": 60005634,
+          "name": "Alkoholna pića"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "126,65 Kn / L",
+      "price": {
+        "amount": 9499,
+        "currency": "Kn",
+        "formatted_price": "94,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60053025,
+      "code": "04074063",
+      "name": "Franc Cappuccino clasic 140 g kutija",
+      "description": " <br/> ",
+      "product_path": "/products/60053025/franc-cappuccino-clasic-140-g-kutija",
+      "image_path": "/images/products/040/04074063.gif",
+      "thumbnail_image_path": "/images/products/040/04074063s.gif",
+      "product_details_path": "/products/60053025",
+      "manufacturer": "FRANCK d.d. Zagreb",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.14,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/040/04074063s.gif",
+      "image_m": "/images/products/040/04074063m.gif",
+      "image_l": "/images/products/040/04074063l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 65006059,
+          "name": "KO",
+          "netto_weight": 140,
+          "gross_weight": 203,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65006060,
+          "name": "KT",
+          "netto_weight": 1400,
+          "gross_weight": 1700,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 10,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65006061,
+          "name": "PL",
+          "netto_weight": 84000,
+          "gross_weight": 102000,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 60,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3858881085732"
+      ],
+      "categories": [
+        {
+          "id": 60005691,
+          "name": "Capuccino"
+        },
+        {
+          "id": 60005689,
+          "name": "Kava"
+        },
+        {
+          "id": 60005688,
+          "name": "Topli napitci"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "121,36 Kn / Kg",
+      "price": {
+        "amount": 1699,
+        "currency": "Kn",
+        "formatted_price": "16,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60053028,
+      "code": "04074066",
+      "name": "Franck Cappuccino Irish cream 200 g kutija",
+      "description": " <br/> ",
+      "product_path": "/products/60053028/franck-cappuccino-irish-cream-200-g-kutija",
+      "image_path": "/images/products/040/04074066.gif",
+      "thumbnail_image_path": "/images/products/040/04074066s.gif",
+      "product_details_path": "/products/60053028",
+      "manufacturer": "FRANCK d.d. Zagreb",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.2,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/040/04074066s.gif",
+      "image_m": "/images/products/040/04074066m.gif",
+      "image_l": "/images/products/040/04074066l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 65006068,
+          "name": "KO",
+          "netto_weight": 200,
+          "gross_weight": 251,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65006069,
+          "name": "KT",
+          "netto_weight": 2000,
+          "gross_weight": 2500,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 10,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65006070,
+          "name": "PL",
+          "netto_weight": 120000,
+          "gross_weight": 138000,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 60,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3858881085763"
+      ],
+      "categories": [
+        {
+          "id": 60005691,
+          "name": "Capuccino"
+        },
+        {
+          "id": 60005689,
+          "name": "Kava"
+        },
+        {
+          "id": 60005688,
+          "name": "Topli napitci"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "84,95 Kn / Kg",
+      "price": {
+        "amount": 1699,
+        "currency": "Kn",
+        "formatted_price": "16,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60082786,
+      "code": "90052986",
+      "name": "Fructal nektar naranča 2l",
+      "description": " <br/> ",
+      "product_path": "/products/60082786/fructal-nektar-naranca-2l",
+      "image_path": "/images/products/900/90052986.gif",
+      "thumbnail_image_path": "/images/products/900/90052986s.gif",
+      "product_details_path": "/products/60082786",
+      "manufacturer": null,
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 2.09,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/900/90052986s.gif",
+      "image_m": "/images/products/900/90052986m.gif",
+      "image_l": "/images/products/900/90052986l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64780377,
+          "name": "KO",
+          "netto_weight": 2090,
+          "gross_weight": 2160,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64780378,
+          "name": "KT",
+          "netto_weight": 12540,
+          "gross_weight": 12960,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 6,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64780379,
+          "name": "PL",
+          "netto_weight": 752400,
+          "gross_weight": 777600,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 60,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "8606004250155"
+      ],
+      "categories": [
+        {
+          "id": 60005674,
+          "name": "Tetrapak – veliko pakiranje"
+        },
+        {
+          "id": 60005673,
+          "name": "Prirodni sokovi"
+        },
+        {
+          "id": 60005662,
+          "name": "Bezalkoholna pića"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "8,50 Kn / L",
+      "price": {
+        "amount": 1699,
+        "currency": "Kn",
+        "formatted_price": "16,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60053948,
+      "code": "03170005",
+      "name": "Frutti sirup jabuka 1L",
+      "description": " <br/> ",
+      "product_path": "/products/60053948/frutti-sirup-jabuka-1l",
+      "image_path": "/images/products/031/03170005.gif",
+      "thumbnail_image_path": "/images/products/031/03170005s.gif",
+      "product_details_path": "/products/60053948",
+      "manufacturer": "DINES DUO D.O.O.",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 1.358,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/031/03170005s.gif",
+      "image_m": "/images/products/031/03170005m.gif",
+      "image_l": "/images/products/031/03170005l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 65038066,
+          "name": "KO",
+          "netto_weight": 1358,
+          "gross_weight": 1339,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65038067,
+          "name": "KT",
+          "netto_weight": 1358,
+          "gross_weight": 8039,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 6,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65038068,
+          "name": "PL",
+          "netto_weight": 1358,
+          "gross_weight": 804000,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 100,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3850334204189",
+        "3850334353849"
+      ],
+      "categories": [
+        {
+          "id": 60005679,
+          "name": "Sirupi sa šećerom"
+        },
+        {
+          "id": 60005678,
+          "name": "Sirupi"
+        },
+        {
+          "id": 60005662,
+          "name": "Bezalkoholna pića"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "10,99 Kn / L",
+      "price": {
+        "amount": 1099,
+        "currency": "Kn",
+        "formatted_price": "10,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50007874,
+      "code": "03180561",
+      "name": "Jamnica mineralna gazirana voda 1 l",
+      "description": " <br/> ",
+      "product_path": "/products/50007874/jamnica-mineralna-gazirana-voda-1-l",
+      "image_path": "/images/products/031/03180561.gif",
+      "thumbnail_image_path": "/images/products/031/03180561s.gif",
+      "product_details_path": "/products/50007874",
+      "manufacturer": "JAMNICA d.d.  ZAGREB",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 1.0,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": true,
+      "image_s": "/images/products/031/03180561s.gif",
+      "image_m": "/images/products/031/03180561m.gif",
+      "image_l": "/images/products/031/03180561l.gif",
+      "package_id": 60050972,
+      "deposit_packaging_price": {
+        "amount": 200,
+        "currency": "Kn",
+        "formatted_price": "2,00 Kn"
+      },
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 65048691,
+          "name": "KO",
+          "netto_weight": 1000,
+          "gross_weight": 55555000,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65048692,
+          "name": "KT",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 12,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65048693,
+          "name": "PL",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 32,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3859888152014"
+      ],
+      "categories": [
+        {
+          "id": 60005667,
+          "name": "Voda - staklena ambalaža"
+        },
+        {
+          "id": 60005663,
+          "name": "Voda"
+        },
+        {
+          "id": 60005662,
+          "name": "Bezalkoholna pića"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "2,99 Kn / L",
+      "price": {
+        "amount": 299,
+        "currency": "Kn",
+        "formatted_price": "2,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50007080,
+      "code": "03140173",
+      "name": "Juicy nektar marelica, breskva, jabuka 0,5 l Jamnica",
+      "description": " <br/> ",
+      "product_path": "/products/50007080/juicy-nektar-marelica-breskva-jabuka-0-5-l-jamnica",
+      "image_path": "/images/products/031/03140173.gif",
+      "thumbnail_image_path": "/images/products/031/03140173s.gif",
+      "product_details_path": "/products/50007080",
+      "manufacturer": "JAMNICA d.d.  ZAGREB",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": null,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/031/03140173s.gif",
+      "image_m": "/images/products/031/03140173m.gif",
+      "image_l": "/images/products/031/03140173l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64769280,
+          "name": "KO",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64769281,
+          "name": "KT",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 12,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64769282,
+          "name": "PL",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 128,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3859888152373"
+      ],
+      "categories": [
+        {
+          "id": 60005675,
+          "name": "Tetrapak – malo pakiranje"
+        },
+        {
+          "id": 60005673,
+          "name": "Prirodni sokovi"
+        },
+        {
+          "id": 60005662,
+          "name": "Bezalkoholna pića"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "11,98 Kn / L",
+      "price": {
+        "amount": 599,
+        "currency": "Kn",
+        "formatted_price": "5,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50007075,
+      "code": "03140143",
+      "name": "Juicy nektar marelica,breskva,jabuka 1 l",
+      "description": " <br/> ",
+      "product_path": "/products/50007075/juicy-nektar-marelica-breskva-jabuka-1-l",
+      "image_path": "/images/products/031/03140143.gif",
+      "thumbnail_image_path": "/images/products/031/03140143s.gif",
+      "product_details_path": "/products/50007075",
+      "manufacturer": "JAMNICA d.d.  ZAGREB",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": null,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/031/03140143s.gif",
+      "image_m": "/images/products/031/03140143m.gif",
+      "image_l": "/images/products/031/03140143l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64769247,
+          "name": "KO",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64769248,
+          "name": "KT",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 6,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64769249,
+          "name": "PL",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 128,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3859888152342"
+      ],
+      "categories": [
+        {
+          "id": 60005674,
+          "name": "Tetrapak – veliko pakiranje"
+        },
+        {
+          "id": 60005673,
+          "name": "Prirodni sokovi"
+        },
+        {
+          "id": 60005662,
+          "name": "Bezalkoholna pića"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "8,99 Kn / L",
+      "price": {
+        "amount": 899,
+        "currency": "Kn",
+        "formatted_price": "8,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50009616,
+      "code": "04070149",
+      "name": "Kava Lavazza espresso u kutiji 250 g",
+      "description": " <br/> ",
+      "product_path": "/products/50009616/kava-lavazza-espresso-u-kutiji-250-g",
+      "image_path": "/images/products/040/04070149.gif",
+      "thumbnail_image_path": "/images/products/040/04070149s.gif",
+      "product_details_path": "/products/50009616",
+      "manufacturer": null,
       "sales_unit_of_measure": "Ko",
       "quantity_step": 1.0,
       "min_order_quantity": 1.0,
@@ -477,17 +1415,17 @@
       "catch_weight": 0,
       "has_image": true,
       "requires_deposit_packaging": false,
-      "image_s": "/images/products/040/04070887s.gif",
-      "image_m": "/images/products/040/04070887m.gif",
-      "image_l": "/images/products/040/04070887l.gif",
+      "image_s": "/images/products/040/04070149s.gif",
+      "image_m": "/images/products/040/04070149m.gif",
+      "image_l": "/images/products/040/04070149l.gif",
       "icons": [],
       "lifetime": null,
       "product_uoms": [
         {
-          "id": 65005630,
+          "id": 65008627,
           "name": "KO",
           "netto_weight": 250,
-          "gross_weight": 263,
+          "gross_weight": 285,
           "smaller_unit": null,
           "smaller_unit_factor": null,
           "dimensions": null,
@@ -495,30 +1433,31 @@
           "barcode": null
         },
         {
-          "id": 65005631,
+          "id": 65008628,
           "name": "KT",
-          "netto_weight": 250,
-          "gross_weight": 6408,
+          "netto_weight": 5000,
+          "gross_weight": 5000,
           "smaller_unit": "KO",
-          "smaller_unit_factor": 24,
+          "smaller_unit_factor": 20,
           "dimensions": null,
           "volume": null,
           "barcode": null
         },
         {
-          "id": 65005632,
+          "id": 65008629,
           "name": "PL",
-          "netto_weight": 250,
-          "gross_weight": 384480,
+          "netto_weight": 250000,
+          "gross_weight": 285000,
           "smaller_unit": "KT",
-          "smaller_unit_factor": 80,
+          "smaller_unit_factor": 45,
           "dimensions": null,
           "volume": null,
           "barcode": null
         }
       ],
       "barcodes": [
-        "3858881080119"
+        "8000070012837",
+        "8000070018808"
       ],
       "categories": [
         {
@@ -535,48 +1474,48 @@
         },
         {
           "id": 60005633,
-          "name": "PiÄ‡a"
+          "name": "Pića"
         }
       ],
       "active": true,
       "price_unit_of_measure": "Ko",
-      "statistical_price": "115,96 Kn / Kg",
+      "statistical_price": "159,96 Kn / Kg",
       "price": {
-        "amount": 2899,
+        "amount": 3999,
         "currency": "Kn",
-        "formatted_price": "28,99 Kn"
+        "formatted_price": "39,99 Kn"
       },
       "favorite": false
     },
     {
-      "id": 60017251,
-      "code": "03070780",
-      "name": "Gin Gordons dry 0,7 l",
+      "id": 50007483,
+      "code": "03160064",
+      "name": "Ledeni čaj Nestea breskva 1,5 l",
       "description": " <br/> ",
-      "product_path": "/products/60017251/gin-gordons-dry-0-7-l",
-      "image_path": "/images/products/030/03070780.gif",
-      "thumbnail_image_path": "/images/products/030/03070780s.gif",
-      "product_details_path": "/products/60017251",
-      "manufacturer": "ALEXANDER GORDON & COMPANY",
+      "product_path": "/products/50007483/ledeni-caj-nestea-breskva-1-5-l",
+      "image_path": "/images/products/031/03160064.gif",
+      "thumbnail_image_path": "/images/products/031/03160064s.gif",
+      "product_details_path": "/products/50007483",
+      "manufacturer": "COCA-COLA HBC HRVATSKA d.o.o.",
       "sales_unit_of_measure": "Ko",
       "quantity_step": 1.0,
       "min_order_quantity": 1.0,
-      "netto_weight_factor": 0.7,
+      "netto_weight_factor": 1.526,
       "sliceable": false,
       "catch_weight": 0,
       "has_image": true,
       "requires_deposit_packaging": false,
-      "image_s": "/images/products/030/03070780s.gif",
-      "image_m": "/images/products/030/03070780m.gif",
-      "image_l": "/images/products/030/03070780l.gif",
+      "image_s": "/images/products/031/03160064s.gif",
+      "image_m": "/images/products/031/03160064m.gif",
+      "image_l": "/images/products/031/03160064l.gif",
       "icons": [],
       "lifetime": null,
       "product_uoms": [
         {
-          "id": 64800597,
+          "id": 64768644,
           "name": "KO",
-          "netto_weight": 700,
-          "gross_weight": 1100,
+          "netto_weight": 1526,
+          "gross_weight": 1500,
           "smaller_unit": null,
           "smaller_unit_factor": null,
           "dimensions": null,
@@ -584,70 +1523,249 @@
           "barcode": null
         },
         {
-          "id": 64800598,
+          "id": 64768645,
           "name": "KT",
-          "netto_weight": 8400,
-          "gross_weight": 13200,
+          "netto_weight": 1526,
+          "gross_weight": 9000,
           "smaller_unit": "KO",
-          "smaller_unit_factor": 12,
+          "smaller_unit_factor": 6,
           "dimensions": null,
           "volume": null,
           "barcode": null
         },
         {
-          "id": 64800599,
+          "id": 64768646,
           "name": "PL",
-          "netto_weight": 403000,
-          "gross_weight": 634000,
+          "netto_weight": 1526,
+          "gross_weight": 756000,
           "smaller_unit": "KT",
-          "smaller_unit_factor": 48,
+          "smaller_unit_factor": 63,
           "dimensions": null,
           "volume": null,
           "barcode": null
         }
       ],
       "barcodes": [
-        "5000289020602",
-        "5000289925440"
+        "5449000017390",
+        "5449000030528"
       ],
       "categories": [
         {
-          "id": 60005654,
-          "name": "Gin/Tequila"
+          "id": 60005685,
+          "name": "Ledeni čaj – velika pakiranja"
         },
         {
-          "id": 60005647,
-          "name": "Jaka alkoholna piÄ‡a"
+          "id": 60005684,
+          "name": "Ledeni čaj"
         },
         {
-          "id": 60005634,
-          "name": "Alkoholna piÄ‡a"
+          "id": 60005662,
+          "name": "Bezalkoholna pića"
         },
         {
           "id": 60005633,
-          "name": "PiÄ‡a"
+          "name": "Pića"
         }
       ],
       "active": true,
       "price_unit_of_measure": "Ko",
-      "statistical_price": "185,70 Kn / L",
+      "statistical_price": "5,99 Kn / L",
       "price": {
-        "amount": 12999,
+        "amount": 899,
         "currency": "Kn",
-        "formatted_price": "129,99 Kn"
+        "formatted_price": "8,99 Kn"
       },
       "favorite": false
     },
     {
-      "id": 60064630,
-      "code": "90039718",
-      "name": "Iso Sport napitak limun-treÅ¡nja 0,5 l",
+      "id": 60089652,
+      "code": "90074456",
+      "name": "Milford čaj đumbir kamilica naranča 40g",
       "description": " <br/> ",
-      "product_path": "/products/60064630/iso-sport-napitak-limun-tresnja-0-5-l",
-      "image_path": "/images/products/900/90039718.gif",
-      "thumbnail_image_path": "/images/products/900/90039718s.gif",
-      "product_details_path": "/products/60064630",
-      "manufacturer": "VINDIJA D.D.",
+      "product_path": "/products/60089652/milford-caj-dumbir-kamilica-naranca-40g",
+      "image_path": "/images/products/900/90074456.gif",
+      "thumbnail_image_path": "/images/products/900/90074456s.gif",
+      "product_details_path": "/products/60089652",
+      "manufacturer": "MILFORD TEE AUSTRIA GESELLSCHAFT",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.04,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/900/90074456s.gif",
+      "image_m": "/images/products/900/90074456m.gif",
+      "image_l": "/images/products/900/90074456l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 65028709,
+          "name": "KO",
+          "netto_weight": 40,
+          "gross_weight": 80,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65028710,
+          "name": "KT",
+          "netto_weight": 400,
+          "gross_weight": 800,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 10,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65028711,
+          "name": "PL",
+          "netto_weight": 40800,
+          "gross_weight": 81600,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 102,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "9002221010395"
+      ],
+      "categories": [
+        {
+          "id": 60005699,
+          "name": "Čaj - filter vrećice"
+        },
+        {
+          "id": 60005698,
+          "name": "Čaj"
+        },
+        {
+          "id": 60005688,
+          "name": "Topli napitci"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "387,25 Kn / Kg",
+      "price": {
+        "amount": 1549,
+        "currency": "Kn",
+        "formatted_price": "15,49 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50007058,
+      "code": "03140073",
+      "name": "Nektar naranča  1 l Maraska",
+      "description": " <br/> ",
+      "product_path": "/products/50007058/nektar-naranca-1-l-maraska",
+      "image_path": "/images/products/031/03140073.gif",
+      "thumbnail_image_path": "/images/products/031/03140073s.gif",
+      "product_details_path": "/products/50007058",
+      "manufacturer": "MARASKA",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 1.044,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/031/03140073s.gif",
+      "image_m": "/images/products/031/03140073m.gif",
+      "image_l": "/images/products/031/03140073l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64849965,
+          "name": "KO",
+          "netto_weight": 1044,
+          "gross_weight": 1084,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64849966,
+          "name": "KT",
+          "netto_weight": 10840,
+          "gross_weight": 10950,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 10,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64849967,
+          "name": "PL",
+          "netto_weight": 731000,
+          "gross_weight": 787000,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 70,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3850158601256",
+        "3850158601287"
+      ],
+      "categories": [
+        {
+          "id": 60005674,
+          "name": "Tetrapak – veliko pakiranje"
+        },
+        {
+          "id": 60005673,
+          "name": "Prirodni sokovi"
+        },
+        {
+          "id": 60005662,
+          "name": "Bezalkoholna pića"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "9,99 Kn / L",
+      "price": {
+        "amount": 999,
+        "currency": "Kn",
+        "formatted_price": "9,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50006956,
+      "code": "03130526",
+      "name": "Ožujsko Q Pack 1 l Zagrebačka pivovara",
+      "description": "PIVO OŽUJSKO Q PACK 1L PET <br/> ",
+      "product_path": "/products/50006956/ozujsko-q-pack-1-l-zagrebacka-pivovara",
+      "image_path": "/images/products/031/03130526.gif",
+      "thumbnail_image_path": "/images/products/031/03130526s.gif",
+      "product_details_path": "/products/50006956",
+      "manufacturer": "ZAGREBAČKA PIVOVARA d.o.o.",
       "sales_unit_of_measure": "Ko",
       "quantity_step": 1.0,
       "min_order_quantity": 1.0,
@@ -656,14 +1774,14 @@
       "catch_weight": 0,
       "has_image": true,
       "requires_deposit_packaging": false,
-      "image_s": "/images/products/900/90039718s.gif",
-      "image_m": "/images/products/900/90039718m.gif",
-      "image_l": "/images/products/900/90039718l.gif",
+      "image_s": "/images/products/031/03130526s.gif",
+      "image_m": "/images/products/031/03130526m.gif",
+      "image_l": "/images/products/031/03130526l.gif",
       "icons": [],
       "lifetime": null,
       "product_uoms": [
         {
-          "id": 64825773,
+          "id": 64801395,
           "name": "KO",
           "netto_weight": null,
           "gross_weight": null,
@@ -674,21 +1792,21 @@
           "barcode": null
         },
         {
-          "id": 64825774,
+          "id": 64801396,
           "name": "KT",
-          "netto_weight": null,
-          "gross_weight": null,
+          "netto_weight": 6000,
+          "gross_weight": 6000,
           "smaller_unit": "KO",
-          "smaller_unit_factor": 12,
+          "smaller_unit_factor": 6,
           "dimensions": null,
           "volume": null,
           "barcode": null
         },
         {
-          "id": 64825775,
+          "id": 64801397,
           "name": "PL",
-          "netto_weight": null,
-          "gross_weight": null,
+          "netto_weight": 504000,
+          "gross_weight": 504000,
           "smaller_unit": "KT",
           "smaller_unit_factor": 84,
           "dimensions": null,
@@ -697,24 +1815,833 @@
         }
       ],
       "barcodes": [
-        "3850108073423"
+        "2085156228865",
+        "3850131400807",
+        "3850131400999"
       ],
       "categories": [
         {
-          "id": 60005683,
-          "name": "IzotoniÄni napitci"
+          "id": 60005658,
+          "name": "Pivo u PET ambalaži"
         },
         {
-          "id": 60005681,
-          "name": "Energetski i izotoniÄni napitci"
+          "id": 60005655,
+          "name": "Pivo"
         },
         {
-          "id": 60005662,
-          "name": "Bezalkoholna piÄ‡a"
+          "id": 60005634,
+          "name": "Alkoholna pića"
         },
         {
           "id": 60005633,
-          "name": "PiÄ‡a"
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "12,99 Kn / L",
+      "price": {
+        "amount": 1299,
+        "currency": "Kn",
+        "formatted_price": "12,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60008554,
+      "code": "03130646",
+      "name": "Pivo Corona extra 0,355 l 3+1 gratis",
+      "description": " <br/> ",
+      "product_path": "/products/60008554/pivo-corona-extra-0-355-l-3-1-gratis",
+      "image_path": "/images/products/031/03130646.gif",
+      "thumbnail_image_path": "/images/products/031/03130646s.gif",
+      "product_details_path": "/products/60008554",
+      "manufacturer": "GRUPO MODELO S.A.B.de C.V.",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 1.32,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": false,
+      "requires_deposit_packaging": false,
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64768023,
+          "name": "KO",
+          "netto_weight": 1320,
+          "gross_weight": 2290,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64768024,
+          "name": "KT",
+          "netto_weight": 7920,
+          "gross_weight": 13740,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 6,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64768025,
+          "name": "PL",
+          "netto_weight": 450000,
+          "gross_weight": 760000,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 54,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "7501064113871",
+        "7501064191497",
+        "7501064193101"
+      ],
+      "categories": [
+        {
+          "id": 60005656,
+          "name": "Pivo - nepovratna ambalaža"
+        },
+        {
+          "id": 60005655,
+          "name": "Pivo"
+        },
+        {
+          "id": 60005634,
+          "name": "Alkoholna pića"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "29,52 Kn / L",
+      "price": {
+        "amount": 3897,
+        "currency": "Kn",
+        "formatted_price": "38,97 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60110550,
+      "code": "90132108",
+      "name": "pivo grička vještica 0,5l",
+      "description": "PIVO GRIČKA VJEŠTICA 0,5l <br/> ",
+      "product_path": "/products/60110550/pivo-gricka-vjestica-0-5l",
+      "image_path": "/images/products/901/90132108.gif",
+      "thumbnail_image_path": "/images/products/901/90132108s.gif",
+      "product_details_path": "/products/60110550",
+      "manufacturer": null,
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": null,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": false,
+      "requires_deposit_packaging": false,
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64977278,
+          "name": "KO",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64977279,
+          "name": "KT",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 6,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64977280,
+          "name": "PL",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 93,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3857500003201",
+        "3857500003218"
+      ],
+      "categories": [
+        {
+          "id": 60005657,
+          "name": "Pivo - povratna boca"
+        },
+        {
+          "id": 60005655,
+          "name": "Pivo"
+        },
+        {
+          "id": 60005634,
+          "name": "Alkoholna pića"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "23,98 Kn / L",
+      "price": {
+        "amount": 1199,
+        "currency": "Kn",
+        "formatted_price": "11,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60100308,
+      "code": "90088107",
+      "name": "Pivo Pan Radl grejp lim 0,5l pov boca",
+      "description": " <br/> ",
+      "product_path": "/products/60100308/pivo-pan-radl-grejp-lim-0-5l-pov-boca",
+      "image_path": "/images/products/900/90088107.gif",
+      "thumbnail_image_path": "/images/products/900/90088107s.gif",
+      "product_details_path": "/products/60100308",
+      "manufacturer": "CARLSBERG CROATIA D.O.O.",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.5,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": true,
+      "image_s": "/images/products/900/90088107s.gif",
+      "image_m": "/images/products/900/90088107m.gif",
+      "image_l": "/images/products/900/90088107l.gif",
+      "package_id": 60050938,
+      "deposit_packaging_price": {
+        "amount": 125,
+        "currency": "Kn",
+        "formatted_price": "1,25 Kn"
+      },
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64828974,
+          "name": "KO",
+          "netto_weight": 500,
+          "gross_weight": 860,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64828975,
+          "name": "KT",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 20,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64828976,
+          "name": "PL",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 40,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3858887581771"
+      ],
+      "categories": [
+        {
+          "id": 60005660,
+          "name": "Pivo s okusima"
+        },
+        {
+          "id": 60005655,
+          "name": "Pivo"
+        },
+        {
+          "id": 60005634,
+          "name": "Alkoholna pića"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "12,98 Kn / L",
+      "price": {
+        "amount": 649,
+        "currency": "Kn",
+        "formatted_price": "6,49 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50006369,
+      "code": "03021181",
+      "name": "Pjenušac Biser mora 0,75 l Katunar",
+      "description": " <br/> ",
+      "product_path": "/products/50006369/pjenusac-biser-mora-0-75-l-katunar",
+      "image_path": "/images/products/030/03021181.gif",
+      "thumbnail_image_path": "/images/products/030/03021181s.gif",
+      "product_details_path": "/products/50006369",
+      "manufacturer": "KATUNAR VINARIJA d.o.o",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 1.2,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/030/03021181s.gif",
+      "image_m": "/images/products/030/03021181m.gif",
+      "image_l": "/images/products/030/03021181l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64788735,
+          "name": "KO",
+          "netto_weight": 1200,
+          "gross_weight": 1321,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64788736,
+          "name": "KT",
+          "netto_weight": 14400,
+          "gross_weight": 15852,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 12,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64788737,
+          "name": "PL",
+          "netto_weight": 864000,
+          "gross_weight": 864000,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 60,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3859888755734"
+      ],
+      "categories": [
+        {
+          "id": 60005645,
+          "name": "Pjenušci"
+        },
+        {
+          "id": 60005635,
+          "name": "Vino"
+        },
+        {
+          "id": 60005634,
+          "name": "Alkoholna pića"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "57,32 Kn / L",
+      "price": {
+        "amount": 4299,
+        "currency": "Kn",
+        "formatted_price": "42,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60052807,
+      "code": "04091132",
+      "name": "Podravka čaj šipak 60 g",
+      "description": " <br/> ",
+      "product_path": "/products/60052807/podravka-caj-sipak-60-g",
+      "image_path": "/images/products/040/04091132.gif",
+      "thumbnail_image_path": "/images/products/040/04091132s.gif",
+      "product_details_path": "/products/60052807",
+      "manufacturer": "PODRAVKA d.d.",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.06,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/040/04091132s.gif",
+      "image_m": "/images/products/040/04091132m.gif",
+      "image_l": "/images/products/040/04091132l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 65008903,
+          "name": "KO",
+          "netto_weight": 60,
+          "gross_weight": 82,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65008904,
+          "name": "KT",
+          "netto_weight": 1200,
+          "gross_weight": 1730,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 20,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65008905,
+          "name": "PL",
+          "netto_weight": 100800,
+          "gross_weight": 145320,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 84,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3850104249044"
+      ],
+      "categories": [
+        {
+          "id": 60005699,
+          "name": "Čaj - filter vrećice"
+        },
+        {
+          "id": 60005698,
+          "name": "Čaj"
+        },
+        {
+          "id": 60005688,
+          "name": "Topli napitci"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "99,83 Kn / Kg",
+      "price": {
+        "amount": 599,
+        "currency": "Kn",
+        "formatted_price": "5,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60032189,
+      "code": "03020695",
+      "name": "Rixanich vino rose 0,75 l",
+      "description": " <br/> ",
+      "product_path": "/products/60032189/rixanich-vino-rose-0-75-l",
+      "image_path": "/images/products/030/03020695.gif",
+      "thumbnail_image_path": "/images/products/030/03020695s.gif",
+      "product_details_path": "/products/60032189",
+      "manufacturer": "PODRUM ROXANICH D.O.O",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.75,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/030/03020695s.gif",
+      "image_m": "/images/products/030/03020695m.gif",
+      "image_l": "/images/products/030/03020695l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64788765,
+          "name": "KO",
+          "netto_weight": 750,
+          "gross_weight": 1300,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64788766,
+          "name": "KT",
+          "netto_weight": 4500,
+          "gross_weight": 7800,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 6,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64788767,
+          "name": "PL",
+          "netto_weight": 315000,
+          "gross_weight": 546000,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 70,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3859892010072"
+      ],
+      "categories": [
+        {
+          "id": 60005644,
+          "name": "Vino Rose"
+        },
+        {
+          "id": 60005635,
+          "name": "Vino"
+        },
+        {
+          "id": 60005634,
+          "name": "Alkoholna pića"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "111,99 Kn / L",
+      "price": {
+        "amount": 8399,
+        "currency": "Kn",
+        "formatted_price": "83,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50007846,
+      "code": "03173170",
+      "name": "Sirup Voćko limun 1 l",
+      "description": " <br/> ",
+      "product_path": "/products/50007846/sirup-vocko-limun-1-l",
+      "image_path": "/images/products/031/03173170.gif",
+      "thumbnail_image_path": "/images/products/031/03173170s.gif",
+      "product_details_path": "/products/50007846",
+      "manufacturer": "BADEL 1862",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 1.0,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/031/03173170s.gif",
+      "image_m": "/images/products/031/03173170m.gif",
+      "image_l": "/images/products/031/03173170l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64771158,
+          "name": "KO",
+          "netto_weight": 1000,
+          "gross_weight": 1000,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64771159,
+          "name": "KT",
+          "netto_weight": 6000,
+          "gross_weight": 6000,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 6,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64771160,
+          "name": "PL",
+          "netto_weight": 432000,
+          "gross_weight": 432000,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 72,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3850153001419",
+        "3858883528060"
+      ],
+      "categories": [
+        {
+          "id": 60005679,
+          "name": "Sirupi sa šećerom"
+        },
+        {
+          "id": 60005678,
+          "name": "Sirupi"
+        },
+        {
+          "id": 60005662,
+          "name": "Bezalkoholna pića"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "16,49 Kn / L",
+      "price": {
+        "amount": 1649,
+        "currency": "Kn",
+        "formatted_price": "16,49 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60096586,
+      "code": "90074965",
+      "name": "Sok Licky 0,2 l Multivitamin",
+      "description": " <br/> ",
+      "product_path": "/products/60096586/sok-licky-0-2-l-multivitamin",
+      "image_path": "/images/products/900/90074965.gif",
+      "thumbnail_image_path": "/images/products/900/90074965s.gif",
+      "product_details_path": "/products/60096586",
+      "manufacturer": null,
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": null,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/900/90074965s.gif",
+      "image_m": "/images/products/900/90074965m.gif",
+      "image_l": "/images/products/900/90074965l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64963316,
+          "name": "KO",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64963317,
+          "name": "KT",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 10,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64963318,
+          "name": "PL",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 324,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "8606106228625"
+      ],
+      "categories": [
+        {
+          "id": 60005675,
+          "name": "Tetrapak – malo pakiranje"
+        },
+        {
+          "id": 60005673,
+          "name": "Prirodni sokovi"
+        },
+        {
+          "id": 60005662,
+          "name": "Bezalkoholna pića"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "9,95 Kn / L",
+      "price": {
+        "amount": 199,
+        "currency": "Kn",
+        "formatted_price": "1,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50007697,
+      "code": "03163504",
+      "name": "Sprite gazirano piće 0,5L",
+      "description": "GAZ PIĆE SPRITE 0,5L <br/> ",
+      "product_path": "/products/50007697/sprite-gazirano-pice-0-5l",
+      "image_path": "/images/products/031/03163504.gif",
+      "thumbnail_image_path": "/images/products/031/03163504s.gif",
+      "product_details_path": "/products/50007697",
+      "manufacturer": "COCA-COLA HBC HRVATSKA d.o.o.",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": null,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/031/03163504s.gif",
+      "image_m": "/images/products/031/03163504m.gif",
+      "image_l": "/images/products/031/03163504l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64771134,
+          "name": "KO",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64771135,
+          "name": "KT",
+          "netto_weight": 519,
+          "gross_weight": 6750,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 12,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64771136,
+          "name": "PL",
+          "netto_weight": 519,
+          "gross_weight": 729900,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 108,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "0000054491069",
+        "2085156234293",
+        "54491069"
+      ],
+      "categories": [
+        {
+          "id": 60005672,
+          "name": "Gazirani sokovi – mala pakiranja"
+        },
+        {
+          "id": 60005670,
+          "name": "Gazirani sokovi"
+        },
+        {
+          "id": 60005662,
+          "name": "Bezalkoholna pića"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
         }
       ],
       "active": true,
@@ -728,34 +2655,34 @@
       "favorite": false
     },
     {
-      "id": 60084909,
-      "code": "90067513",
-      "name": "Jana groÅ¾Ä‘e mirabel aromatizirana voda 0,5l sportski Äep",
+      "id": 60069393,
+      "code": "90044121",
+      "name": "Vina Belje vrhunsko vino Frankovka 0,75l",
       "description": " <br/> ",
-      "product_path": "/products/60084909/jana-grozde-mirabel-aromatizirana-voda-0-5l-sportski-cep",
-      "image_path": "/images/products/900/90067513.gif",
-      "thumbnail_image_path": "/images/products/900/90067513s.gif",
-      "product_details_path": "/products/60084909",
-      "manufacturer": "JAMNICA d.d.  ZAGREB",
+      "product_path": "/products/60069393/vina-belje-vrhunsko-vino-frankovka-0-75l",
+      "image_path": "/images/products/900/90044121.gif",
+      "thumbnail_image_path": "/images/products/900/90044121s.gif",
+      "product_details_path": "/products/60069393",
+      "manufacturer": "BELJE D.D. DARDA",
       "sales_unit_of_measure": "Ko",
       "quantity_step": 1.0,
       "min_order_quantity": 1.0,
-      "netto_weight_factor": null,
+      "netto_weight_factor": 0.75,
       "sliceable": false,
       "catch_weight": 0,
       "has_image": true,
       "requires_deposit_packaging": false,
-      "image_s": "/images/products/900/90067513s.gif",
-      "image_m": "/images/products/900/90067513m.gif",
-      "image_l": "/images/products/900/90067513l.gif",
+      "image_s": "/images/products/900/90044121s.gif",
+      "image_m": "/images/products/900/90044121m.gif",
+      "image_l": "/images/products/900/90044121l.gif",
       "icons": [],
       "lifetime": null,
       "product_uoms": [
         {
-          "id": 64800171,
+          "id": 64778061,
           "name": "KO",
-          "netto_weight": null,
-          "gross_weight": null,
+          "netto_weight": 750,
+          "gross_weight": 1360,
           "smaller_unit": null,
           "smaller_unit_factor": null,
           "dimensions": null,
@@ -763,10 +2690,10 @@
           "barcode": null
         },
         {
-          "id": 64800172,
+          "id": 64778062,
           "name": "KT",
-          "netto_weight": null,
-          "gross_weight": null,
+          "netto_weight": 4500,
+          "gross_weight": 8160,
           "smaller_unit": "KO",
           "smaller_unit_factor": 6,
           "dimensions": null,
@@ -774,58 +2701,58 @@
           "barcode": null
         },
         {
-          "id": 64800173,
+          "id": 64778063,
           "name": "PL",
-          "netto_weight": null,
-          "gross_weight": null,
+          "netto_weight": 297000,
+          "gross_weight": 538560,
           "smaller_unit": "KT",
-          "smaller_unit_factor": 216,
+          "smaller_unit_factor": 66,
           "dimensions": null,
           "volume": null,
           "barcode": null
         }
       ],
       "barcodes": [
-        "3858884607979"
+        "3850257020606"
       ],
       "categories": [
         {
-          "id": 60005668,
-          "name": "Aromatizirana voda - PET ambalaÅ¾a"
+          "id": 60005641,
+          "name": "Crno vino 0.75 l"
         },
         {
-          "id": 60005663,
-          "name": "Voda"
+          "id": 60005635,
+          "name": "Vino"
         },
         {
-          "id": 60005662,
-          "name": "Bezalkoholna piÄ‡a"
+          "id": 60005634,
+          "name": "Alkoholna pića"
         },
         {
           "id": 60005633,
-          "name": "PiÄ‡a"
+          "name": "Pića"
         }
       ],
       "active": true,
       "price_unit_of_measure": "Ko",
-      "statistical_price": "10,38 Kn / L",
+      "statistical_price": "93,32 Kn / L",
       "price": {
-        "amount": 519,
+        "amount": 6999,
         "currency": "Kn",
-        "formatted_price": "5,19 Kn"
+        "formatted_price": "69,99 Kn"
       },
       "favorite": false
     },
     {
-      "id": 50007131,
-      "code": "03140396",
-      "name": "Juicy nektar multivitamin  0,5 l",
+      "id": 50007213,
+      "code": "03140705",
+      "name": "Vindi nektar  mandarina i naranča 1 l",
       "description": " <br/> ",
-      "product_path": "/products/50007131/juicy-nektar-multivitamin-0-5-l",
-      "image_path": "/images/products/031/03140396.gif",
-      "thumbnail_image_path": "/images/products/031/03140396s.gif",
-      "product_details_path": "/products/50007131",
-      "manufacturer": "JAMNICA d.d.  ZAGREB",
+      "product_path": "/products/50007213/vindi-nektar-mandarina-i-naranca-1-l",
+      "image_path": "/images/products/031/03140705.gif",
+      "thumbnail_image_path": "/images/products/031/03140705s.gif",
+      "product_details_path": "/products/50007213",
+      "manufacturer": "VINDIJA D.D.",
       "sales_unit_of_measure": "Ko",
       "quantity_step": 1.0,
       "min_order_quantity": 1.0,
@@ -834,14 +2761,14 @@
       "catch_weight": 0,
       "has_image": true,
       "requires_deposit_packaging": false,
-      "image_s": "/images/products/031/03140396s.gif",
-      "image_m": "/images/products/031/03140396m.gif",
-      "image_l": "/images/products/031/03140396l.gif",
+      "image_s": "/images/products/031/03140705s.gif",
+      "image_m": "/images/products/031/03140705m.gif",
+      "image_l": "/images/products/031/03140705l.gif",
       "icons": [],
       "lifetime": null,
       "product_uoms": [
         {
-          "id": 64768221,
+          "id": 64768263,
           "name": "KO",
           "netto_weight": null,
           "gross_weight": null,
@@ -852,7 +2779,7 @@
           "barcode": null
         },
         {
-          "id": 64768222,
+          "id": 64768264,
           "name": "KT",
           "netto_weight": null,
           "gross_weight": null,
@@ -863,24 +2790,24 @@
           "barcode": null
         },
         {
-          "id": 64768223,
+          "id": 64768265,
           "name": "PL",
           "netto_weight": null,
           "gross_weight": null,
           "smaller_unit": "KT",
-          "smaller_unit_factor": 128,
+          "smaller_unit_factor": 1,
           "dimensions": null,
           "volume": null,
           "barcode": null
         }
       ],
       "barcodes": [
-        "3859888152274"
+        "3850108076004"
       ],
       "categories": [
         {
-          "id": 60005675,
-          "name": "Tetrapak â€“ malo pakiranje"
+          "id": 60005674,
+          "name": "Tetrapak – veliko pakiranje"
         },
         {
           "id": 60005673,
@@ -888,52 +2815,52 @@
         },
         {
           "id": 60005662,
-          "name": "Bezalkoholna piÄ‡a"
+          "name": "Bezalkoholna pića"
         },
         {
           "id": 60005633,
-          "name": "PiÄ‡a"
+          "name": "Pića"
         }
       ],
       "active": true,
       "price_unit_of_measure": "Ko",
-      "statistical_price": "11,38 Kn / L",
+      "statistical_price": "4,99 Kn / L",
       "price": {
-        "amount": 569,
+        "amount": 499,
         "currency": "Kn",
-        "formatted_price": "5,69 Kn"
+        "formatted_price": "4,99 Kn"
       },
       "favorite": false
     },
     {
-      "id": 50006699,
-      "code": "03070422",
-      "name": "Lavov 1 l Badel",
+      "id": 50006398,
+      "code": "03021403",
+      "name": "Vino Chardonna 0,75 l Badg Creek",
       "description": " <br/> ",
-      "product_path": "/products/50006699/lavov-1-l-badel",
-      "image_path": "/images/products/030/03070422.gif",
-      "thumbnail_image_path": "/images/products/030/03070422s.gif",
-      "product_details_path": "/products/50006699",
-      "manufacturer": "BADEL 1862",
+      "product_path": "/products/50006398/vino-chardonna-0-75-l-badg-creek",
+      "image_path": "/images/products/030/03021403.gif",
+      "thumbnail_image_path": "/images/products/030/03021403s.gif",
+      "product_details_path": "/products/50006398",
+      "manufacturer": null,
       "sales_unit_of_measure": "Ko",
       "quantity_step": 1.0,
       "min_order_quantity": 1.0,
-      "netto_weight_factor": 1.0,
+      "netto_weight_factor": 0.75,
       "sliceable": false,
       "catch_weight": 0,
       "has_image": true,
       "requires_deposit_packaging": false,
-      "image_s": "/images/products/030/03070422s.gif",
-      "image_m": "/images/products/030/03070422m.gif",
-      "image_l": "/images/products/030/03070422l.gif",
+      "image_s": "/images/products/030/03021403s.gif",
+      "image_m": "/images/products/030/03021403m.gif",
+      "image_l": "/images/products/030/03021403l.gif",
       "icons": [],
       "lifetime": null,
       "product_uoms": [
         {
-          "id": 64800498,
+          "id": 64836771,
           "name": "KO",
-          "netto_weight": 1000,
-          "gross_weight": 1654,
+          "netto_weight": 750,
+          "gross_weight": 1300,
           "smaller_unit": null,
           "smaller_unit_factor": null,
           "dimensions": null,
@@ -941,10 +2868,10 @@
           "barcode": null
         },
         {
-          "id": 64800499,
+          "id": 64836772,
           "name": "KT",
-          "netto_weight": 6000,
-          "gross_weight": 9924,
+          "netto_weight": null,
+          "gross_weight": null,
           "smaller_unit": "KO",
           "smaller_unit_factor": 6,
           "dimensions": null,
@@ -952,10 +2879,1251 @@
           "barcode": null
         },
         {
-          "id": 64800500,
+          "id": 64836773,
           "name": "PL",
-          "netto_weight": 360000,
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 105,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3263286341046"
+      ],
+      "categories": [
+        {
+          "id": 60005637,
+          "name": "Bijelo vino 0.75 l"
+        },
+        {
+          "id": 60005635,
+          "name": "Vino"
+        },
+        {
+          "id": 60005634,
+          "name": "Alkoholna pića"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "39,99 Kn / L",
+      "price": {
+        "amount": 2999,
+        "currency": "Kn",
+        "formatted_price": "29,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50006251,
+      "code": "03020405",
+      "name": "Vino graševina 0,75L Adžić",
+      "description": "VINO GRAŠEVINA KV 0,75L ADŽIĆ <br/> ",
+      "product_path": "/products/50006251/vino-grasevina-0-75l-adzic",
+      "image_path": "/images/products/030/03020405.gif",
+      "thumbnail_image_path": "/images/products/030/03020405s.gif",
+      "product_details_path": "/products/50006251",
+      "manufacturer": "ADŽIĆ VINOGRADARSTVO I VINARSTVO",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": null,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/030/03020405s.gif",
+      "image_m": "/images/products/030/03020405m.gif",
+      "image_l": "/images/products/030/03020405l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64788822,
+          "name": "KO",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64788823,
+          "name": "KT",
+          "netto_weight": 4500,
+          "gross_weight": 9000,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 6,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64788824,
+          "name": "PL",
+          "netto_weight": 270000,
+          "gross_weight": 540000,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 60,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "2000310201508",
+        "3859890469025"
+      ],
+      "categories": [
+        {
+          "id": 60005637,
+          "name": "Bijelo vino 0.75 l"
+        },
+        {
+          "id": 60005635,
+          "name": "Vino"
+        },
+        {
+          "id": 60005634,
+          "name": "Alkoholna pića"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "95,99 Kn / L",
+      "price": {
+        "amount": 7199,
+        "currency": "Kn",
+        "formatted_price": "71,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60002433,
+      "code": "03020769",
+      "name": "Vino Pinot Bijeli jarec 0,75 l",
+      "description": " <br/> ",
+      "product_path": "/products/60002433/vino-pinot-bijeli-jarec-0-75-l",
+      "image_path": "/images/products/030/03020769.gif",
+      "thumbnail_image_path": "/images/products/030/03020769s.gif",
+      "product_details_path": "/products/60002433",
+      "manufacturer": "JAREC-KURE",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.75,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/030/03020769s.gif",
+      "image_m": "/images/products/030/03020769m.gif",
+      "image_l": "/images/products/030/03020769l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64788801,
+          "name": "KO",
+          "netto_weight": 750,
+          "gross_weight": 1258,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64788802,
+          "name": "KT",
+          "netto_weight": 7548,
+          "gross_weight": 7806,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 6,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64788803,
+          "name": "PL",
+          "netto_weight": 636032,
+          "gross_weight": 636032,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 84,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3859891486083"
+      ],
+      "categories": [
+        {
+          "id": 60005637,
+          "name": "Bijelo vino 0.75 l"
+        },
+        {
+          "id": 60005635,
+          "name": "Vino"
+        },
+        {
+          "id": 60005634,
+          "name": "Alkoholna pića"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "79,99 Kn / L",
+      "price": {
+        "amount": 5999,
+        "currency": "Kn",
+        "formatted_price": "59,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50006119,
+      "code": "03020053",
+      "name": "Vino Rajnski rizling 0,75 l Orahovica",
+      "description": " <br/> ",
+      "product_path": "/products/50006119/vino-rajnski-rizling-0-75-l-orahovica",
+      "image_path": "/images/products/030/03020053.gif",
+      "thumbnail_image_path": "/images/products/030/03020053s.gif",
+      "product_details_path": "/products/50006119",
+      "manufacturer": "PP ORAHOVICA d.d.",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.75,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/030/03020053s.gif",
+      "image_m": "/images/products/030/03020053m.gif",
+      "image_l": "/images/products/030/03020053l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64644262,
+          "name": "KO",
+          "netto_weight": 750,
+          "gross_weight": 1363,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64644263,
+          "name": "KT",
+          "netto_weight": 4500,
+          "gross_weight": 8178,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 6,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64644264,
+          "name": "PL",
+          "netto_weight": 503370,
+          "gross_weight": 523370,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 63,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3859888114074"
+      ],
+      "categories": [
+        {
+          "id": 60005637,
+          "name": "Bijelo vino 0.75 l"
+        },
+        {
+          "id": 60005635,
+          "name": "Vino"
+        },
+        {
+          "id": 60005634,
+          "name": "Alkoholna pića"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "39,99 Kn / L",
+      "price": {
+        "amount": 2999,
+        "currency": "Kn",
+        "formatted_price": "29,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50006232,
+      "code": "03020352",
+      "name": "Vino Teran pilato 0,75 l",
+      "description": " <br/> ",
+      "product_path": "/products/50006232/vino-teran-pilato-0-75-l",
+      "image_path": "/images/products/030/03020352.gif",
+      "thumbnail_image_path": "/images/products/030/03020352s.gif",
+      "product_details_path": "/products/50006232",
+      "manufacturer": "VINA PILATO",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": null,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/030/03020352s.gif",
+      "image_m": "/images/products/030/03020352m.gif",
+      "image_l": "/images/products/030/03020352l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64788612,
+          "name": "KO",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64788613,
+          "name": "KT",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 12,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64788614,
+          "name": "PL",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 30,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3859889192064"
+      ],
+      "categories": [
+        {
+          "id": 60005641,
+          "name": "Crno vino 0.75 l"
+        },
+        {
+          "id": 60005635,
+          "name": "Vino"
+        },
+        {
+          "id": 60005634,
+          "name": "Alkoholna pića"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "113,32 Kn / L",
+      "price": {
+        "amount": 8499,
+        "currency": "Kn",
+        "formatted_price": "84,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50006381,
+      "code": "03021260",
+      "name": "Vino Villanyi Rose Cuvee 0,75 l",
+      "description": " <br/> ",
+      "product_path": "/products/50006381/vino-villanyi-rose-cuvee-0-75-l",
+      "image_path": "/images/products/030/03021260.gif",
+      "thumbnail_image_path": "/images/products/030/03021260s.gif",
+      "product_details_path": "/products/50006381",
+      "manufacturer": "CSANYI WINERY PINCESZET RT.",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.75,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/030/03021260s.gif",
+      "image_m": "/images/products/030/03021260m.gif",
+      "image_l": "/images/products/030/03021260l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64836867,
+          "name": "KO",
+          "netto_weight": 750,
+          "gross_weight": 1233,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64836868,
+          "name": "KT",
+          "netto_weight": 4500,
+          "gross_weight": 4500,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 6,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64836869,
+          "name": "PL",
+          "netto_weight": 240000,
           "gross_weight": 360000,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 40,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "5998846620832"
+      ],
+      "categories": [
+        {
+          "id": 60005644,
+          "name": "Vino Rose"
+        },
+        {
+          "id": 60005635,
+          "name": "Vino"
+        },
+        {
+          "id": 60005634,
+          "name": "Alkoholna pića"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "39,99 Kn / L",
+      "price": {
+        "amount": 2999,
+        "currency": "Kn",
+        "formatted_price": "29,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50006820,
+      "code": "03081864",
+      "name": "Whisky Vat 69 0,7L",
+      "description": " <br/> ",
+      "product_path": "/products/50006820/whisky-vat-69-0-7l",
+      "image_path": "/images/products/030/03081864.gif",
+      "thumbnail_image_path": "/images/products/030/03081864s.gif",
+      "product_details_path": "/products/50006820",
+      "manufacturer": "WM.SANDERSON & SON",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.7,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/030/03081864s.gif",
+      "image_m": "/images/products/030/03081864m.gif",
+      "image_l": "/images/products/030/03081864l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64800528,
+          "name": "KO",
+          "netto_weight": 700,
+          "gross_weight": 1060,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64800529,
+          "name": "KT",
+          "netto_weight": 8400,
+          "gross_weight": 12770,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 12,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64800530,
+          "name": "PL",
+          "netto_weight": 504000,
+          "gross_weight": 787000,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 60,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "5000292261115"
+      ],
+      "categories": [
+        {
+          "id": 60005652,
+          "name": "Whiskey"
+        },
+        {
+          "id": 60005647,
+          "name": "Jaka alkoholna pića"
+        },
+        {
+          "id": 60005634,
+          "name": "Alkoholna pića"
+        },
+        {
+          "id": 60005633,
+          "name": "Pića"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "109,99 Kn / L",
+      "price": {
+        "amount": 7699,
+        "currency": "Kn",
+        "formatted_price": "76,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60097042,
+      "code": "90084053",
+      "name": "Aceto balzamico 500 ml Ekozona",
+      "description": " <br/> ",
+      "product_path": "/products/60097042/aceto-balzamico-500-ml-ekozona",
+      "image_path": "/images/products/900/90084053.gif",
+      "thumbnail_image_path": "/images/products/900/90084053s.gif",
+      "product_details_path": "/products/60097042",
+      "manufacturer": "DO-IT B.V.",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.5,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/900/90084053s.gif",
+      "image_m": "/images/products/900/90084053m.gif",
+      "image_l": "/images/products/900/90084053l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 65034892,
+          "name": "KO",
+          "netto_weight": 500,
+          "gross_weight": 896,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65034893,
+          "name": "KT",
+          "netto_weight": 1500,
+          "gross_weight": 3392,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 12,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65034894,
+          "name": "PL",
+          "netto_weight": 282000,
+          "gross_weight": 662700,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 90,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3858888738204"
+      ],
+      "categories": [
+        {
+          "id": 60004446,
+          "name": "Dodaci jelima"
+        },
+        {
+          "id": 60004444,
+          "name": "Namirnice za pripremu jela"
+        },
+        {
+          "id": 60004430,
+          "name": "Eko, dijabetski i zdrava hrana"
+        },
+        {
+          "id": 60004323,
+          "name": "Hrana"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "43,98 Kn / L",
+      "price": {
+        "amount": 2199,
+        "currency": "Kn",
+        "formatted_price": "21,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60074638,
+      "code": "90052362",
+      "name": "baby mješavina  100gr",
+      "description": " <br/> ",
+      "product_path": "/products/60074638/baby-mjesavina-100gr",
+      "image_path": "/images/products/900/90052362.gif",
+      "thumbnail_image_path": "/images/products/900/90052362s.gif",
+      "product_details_path": "/products/60074638",
+      "manufacturer": "FRAGARIA d.o.o.",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.1,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/900/90052362s.gif",
+      "image_m": "/images/products/900/90052362m.gif",
+      "image_l": "/images/products/900/90052362l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 65031994,
+          "name": "KO",
+          "netto_weight": 100,
+          "gross_weight": 103,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65031995,
+          "name": "KT",
+          "netto_weight": 600,
+          "gross_weight": 618,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 6,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65031996,
+          "name": "PL",
+          "netto_weight": 33600,
+          "gross_weight": 34600,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 56,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3850334339553"
+      ],
+      "categories": [
+        {
+          "id": 60004796,
+          "name": "Pakirana salata"
+        },
+        {
+          "id": 60004787,
+          "name": "Povrće"
+        },
+        {
+          "id": 60004773,
+          "name": "Svježe voće i povrće"
+        },
+        {
+          "id": 60004323,
+          "name": "Hrana"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "129,90 Kn / Kg",
+      "price": {
+        "amount": 1299,
+        "currency": "Kn",
+        "formatted_price": "12,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60095003,
+      "code": "90080896",
+      "name": "Bombon Blink mango 15g",
+      "description": " <br/> ",
+      "product_path": "/products/60095003/bombon-blink-mango-15g",
+      "image_path": "/images/products/900/90080896.gif",
+      "thumbnail_image_path": "/images/products/900/90080896s.gif",
+      "product_details_path": "/products/60095003",
+      "manufacturer": null,
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.015,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": false,
+      "requires_deposit_packaging": false,
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 65017753,
+          "name": "KO",
+          "netto_weight": 15,
+          "gross_weight": 44,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65017754,
+          "name": "KT",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 12,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65017755,
+          "name": "PL",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 576,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "5707593100319"
+      ],
+      "categories": [
+        {
+          "id": 60004412,
+          "name": "Bomboni - dražeje"
+        },
+        {
+          "id": 60004410,
+          "name": "Bomboni"
+        },
+        {
+          "id": 60004389,
+          "name": "Slatkiši i grickalice"
+        },
+        {
+          "id": 60004323,
+          "name": "Hrana"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "732,67 Kn / Kg",
+      "price": {
+        "amount": 1099,
+        "currency": "Kn",
+        "formatted_price": "10,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60029091,
+      "code": "01551126",
+      "name": "Bonduelle kukuruz šećerac gold 285 g Bonduelle",
+      "description": " <br/> ",
+      "product_path": "/products/60029091/bonduelle-kukuruz-secerac-gold-285-g-bonduelle",
+      "image_path": "/images/products/015/01551126.gif",
+      "thumbnail_image_path": "/images/products/015/01551126s.gif",
+      "product_details_path": "/products/60029091",
+      "manufacturer": "BONDUELLE CENTRAL EUROPE KFT",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.34,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/015/01551126s.gif",
+      "image_m": "/images/products/015/01551126m.gif",
+      "image_l": "/images/products/015/01551126l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64984042,
+          "name": "KO",
+          "netto_weight": 340,
+          "gross_weight": 404,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64984043,
+          "name": "KT",
+          "netto_weight": 4080,
+          "gross_weight": 4720,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 12,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64984044,
+          "name": "PL",
+          "netto_weight": 587520,
+          "gross_weight": 704680,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 144,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3083680053303"
+      ],
+      "categories": [
+        {
+          "id": 60004481,
+          "name": "Kukuruz"
+        },
+        {
+          "id": 60004472,
+          "name": "Ukiseljeno i konzervirano povrće"
+        },
+        {
+          "id": 60004460,
+          "name": "Ukiseljena i konzervirana hrana"
+        },
+        {
+          "id": 60004323,
+          "name": "Hrana"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "35,05 Kn / Kg",
+      "price": {
+        "amount": 999,
+        "currency": "Kn",
+        "formatted_price": "9,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60067179,
+      "code": "02032092",
+      "name": "Crijevo kolageno fi 55 mm Croma",
+      "description": " <br/> ",
+      "product_path": "/products/60067179/crijevo-kolageno-fi-55-mm-croma",
+      "image_path": "/images/products/020/02032092.gif",
+      "thumbnail_image_path": "/images/products/020/02032092s.gif",
+      "product_details_path": "/products/60067179",
+      "manufacturer": "CROMA-VARAŽDIN d.o.o.",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.025,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": false,
+      "requires_deposit_packaging": false,
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64944160,
+          "name": "KO",
+          "netto_weight": 25,
+          "gross_weight": 30,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64944161,
+          "name": "KT",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 5,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64944162,
+          "name": "PL",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 1200,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3859890197751"
+      ],
+      "categories": [
+        {
+          "id": 60004593,
+          "name": "Crijeva i ovici"
+        },
+        {
+          "id": 60004583,
+          "name": "Mesne prerađevine - polutrajni proizvodi"
+        },
+        {
+          "id": 60004574,
+          "name": "Mesne prerađevine"
+        },
+        {
+          "id": 60004323,
+          "name": "Hrana"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "18,49 Kn / Ko",
+      "price": {
+        "amount": 1849,
+        "currency": "Kn",
+        "formatted_price": "18,49 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60086972,
+      "code": "90069870",
+      "name": "Čokolada Tutti frutti 80g Kandit",
+      "description": " <br/> ",
+      "product_path": "/products/60086972/cokolada-tutti-frutti-80g-kandit",
+      "image_path": "/images/products/900/90069870.gif",
+      "thumbnail_image_path": "/images/products/900/90069870s.gif",
+      "product_details_path": "/products/60086972",
+      "manufacturer": "KANDIT D.O.O.OSIJEK",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.08,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/900/90069870s.gif",
+      "image_m": "/images/products/900/90069870m.gif",
+      "image_l": "/images/products/900/90069870l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 65025565,
+          "name": "KO",
+          "netto_weight": 80,
+          "gross_weight": 84,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65025566,
+          "name": "KT",
+          "netto_weight": 2240,
+          "gross_weight": 2240,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 28,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65025567,
+          "name": "PL",
+          "netto_weight": 376320,
+          "gross_weight": 395136,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 168,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3858881046610"
+      ],
+      "categories": [
+        {
+          "id": 60004398,
+          "name": "Čokolade"
+        },
+        {
+          "id": 60004397,
+          "name": "Čokoladni proizvodi"
+        },
+        {
+          "id": 60004389,
+          "name": "Slatkiši i grickalice"
+        },
+        {
+          "id": 60004323,
+          "name": "Hrana"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "87,38 Kn / Kg",
+      "price": {
+        "amount": 699,
+        "currency": "Kn",
+        "formatted_price": "6,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60034538,
+      "code": "04280318",
+      "name": "Dida Boža pekmez od šljiva 240 g Hermes",
+      "description": " <br/> ",
+      "product_path": "/products/60034538/dida-boza-pekmez-od-sljiva-240-g-hermes",
+      "image_path": "/images/products/042/04280318.gif",
+      "thumbnail_image_path": "/images/products/042/04280318s.gif",
+      "product_details_path": "/products/60034538",
+      "manufacturer": "HERMES INTERNATIONAL DOO DIR.HENRY CHAD AARON",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.24,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/042/04280318s.gif",
+      "image_m": "/images/products/042/04280318m.gif",
+      "image_l": "/images/products/042/04280318l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 65005183,
+          "name": "KO",
+          "netto_weight": 240,
+          "gross_weight": 0,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65005184,
+          "name": "KT",
+          "netto_weight": 240,
+          "gross_weight": 4,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 12,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65005185,
+          "name": "PL",
+          "netto_weight": 240,
+          "gross_weight": 800,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 154,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3859891515110"
+      ],
+      "categories": [
+        {
+          "id": 60004438,
+          "name": "Namazi"
+        },
+        {
+          "id": 60004435,
+          "name": "Doručak"
+        },
+        {
+          "id": 60004430,
+          "name": "Eko, dijabetski i zdrava hrana"
+        },
+        {
+          "id": 60004323,
+          "name": "Hrana"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "79,12 Kn / Kg",
+      "price": {
+        "amount": 1899,
+        "currency": "Kn",
+        "formatted_price": "18,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60047064,
+      "code": "01407871",
+      "name": "Endivija matovilac romana 200 g",
+      "description": " <br/> ",
+      "product_path": "/products/60047064/endivija-matovilac-romana-200-g",
+      "image_path": "/images/products/014/01407871.gif",
+      "thumbnail_image_path": "/images/products/014/01407871s.gif",
+      "product_details_path": "/products/60047064",
+      "manufacturer": "FRAGARIA d.o.o.",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.2,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/014/01407871s.gif",
+      "image_m": "/images/products/014/01407871m.gif",
+      "image_l": "/images/products/014/01407871l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 65034961,
+          "name": "KO",
+          "netto_weight": 200,
+          "gross_weight": 200,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65034962,
+          "name": "KT",
+          "netto_weight": 3000,
+          "gross_weight": 3000,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 6,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65034963,
+          "name": "PL",
+          "netto_weight": 96000,
+          "gross_weight": 96000,
           "smaller_unit": "KT",
           "smaller_unit_factor": 80,
           "dimensions": null,
@@ -964,65 +4132,65 @@
         }
       ],
       "barcodes": [
-        "3850112110015"
+        "3850334197894"
       ],
       "categories": [
         {
-          "id": 60005653,
-          "name": "Likeri"
+          "id": 60004796,
+          "name": "Pakirana salata"
         },
         {
-          "id": 60005647,
-          "name": "Jaka alkoholna piÄ‡a"
+          "id": 60004787,
+          "name": "Povrće"
         },
         {
-          "id": 60005634,
-          "name": "Alkoholna piÄ‡a"
+          "id": 60004773,
+          "name": "Svježe voće i povrće"
         },
         {
-          "id": 60005633,
-          "name": "PiÄ‡a"
+          "id": 60004323,
+          "name": "Hrana"
         }
       ],
       "active": true,
       "price_unit_of_measure": "Ko",
-      "statistical_price": "64,99 Kn / L",
+      "statistical_price": "59,95 Kn / Kg",
       "price": {
-        "amount": 6499,
+        "amount": 1199,
         "currency": "Kn",
-        "formatted_price": "64,99 Kn"
+        "formatted_price": "11,99 Kn"
       },
       "favorite": false
     },
     {
-      "id": 60106300,
-      "code": "90123257",
-      "name": "Liker mandarina 1l Maraska",
-      "description": " <br/> ",
-      "product_path": "/products/60106300/liker-mandarina-1l-maraska",
-      "image_path": "/images/products/901/90123257.gif",
-      "thumbnail_image_path": "/images/products/901/90123257s.gif",
-      "product_details_path": "/products/60106300",
-      "manufacturer": "MARASKA",
+      "id": 60043711,
+      "code": "04142727",
+      "name": "Eti štapići sa sirom 45 g",
+      "description": "ŠTAPIĆI CRAX SA SIROM 45G ETI <br/> ",
+      "product_path": "/products/60043711/eti-stapici-sa-sirom-45-g",
+      "image_path": "/images/products/041/04142727.gif",
+      "thumbnail_image_path": "/images/products/041/04142727s.gif",
+      "product_details_path": "/products/60043711",
+      "manufacturer": "ETI",
       "sales_unit_of_measure": "Ko",
       "quantity_step": 1.0,
       "min_order_quantity": 1.0,
-      "netto_weight_factor": 1.7,
+      "netto_weight_factor": null,
       "sliceable": false,
       "catch_weight": 0,
       "has_image": true,
       "requires_deposit_packaging": false,
-      "image_s": "/images/products/901/90123257s.gif",
-      "image_m": "/images/products/901/90123257m.gif",
-      "image_l": "/images/products/901/90123257l.gif",
+      "image_s": "/images/products/041/04142727s.gif",
+      "image_m": "/images/products/041/04142727m.gif",
+      "image_l": "/images/products/041/04142727l.gif",
       "icons": [],
       "lifetime": null,
       "product_uoms": [
         {
-          "id": 64837080,
+          "id": 65007970,
           "name": "KO",
-          "netto_weight": 1700,
-          "gross_weight": 1120,
+          "netto_weight": null,
+          "gross_weight": null,
           "smaller_unit": null,
           "smaller_unit_factor": null,
           "dimensions": null,
@@ -1030,10 +4198,218 @@
           "barcode": null
         },
         {
-          "id": 64837081,
+          "id": 65007971,
           "name": "KT",
-          "netto_weight": 10060,
-          "gross_weight": 10400,
+          "netto_weight": 1780,
+          "gross_weight": 1960,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 20,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65007972,
+          "name": "PL",
+          "netto_weight": 213600,
+          "gross_weight": 235000,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 338,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "8690533044149",
+        "8690533244143"
+      ],
+      "categories": [
+        {
+          "id": 60004424,
+          "name": "Štapići"
+        },
+        {
+          "id": 60004420,
+          "name": "Grickalice"
+        },
+        {
+          "id": 60004389,
+          "name": "Slatkiši i grickalice"
+        },
+        {
+          "id": 60004323,
+          "name": "Hrana"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "57,56 Kn / Kg",
+      "price": {
+        "amount": 259,
+        "currency": "Kn",
+        "formatted_price": "2,59 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60089594,
+      "code": "90074377",
+      "name": "Eva haringa biljno ulje Podravka 170g",
+      "description": " <br/> ",
+      "product_path": "/products/60089594/eva-haringa-biljno-ulje-podravka-170g",
+      "image_path": "/images/products/900/90074377.gif",
+      "thumbnail_image_path": "/images/products/900/90074377s.gif",
+      "product_details_path": "/products/60089594",
+      "manufacturer": "ADRIA D.D.",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.17,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/900/90074377s.gif",
+      "image_m": "/images/products/900/90074377m.gif",
+      "image_l": "/images/products/900/90074377l.gif",
+      "icons": [
+        {
+          "type": "offer",
+          "image": {
+            "media_device": "/assets/icons/offer_media_device-bec534cd569c186c89c20bbd66d1267f.png",
+            "mobile": "/assets/icons/offer_mobile-15a6285fe21c62d48716b5f773c5a041.png"
+          }
+        }
+      ],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 65026849,
+          "name": "KO",
+          "netto_weight": 170,
+          "gross_weight": 230,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65026850,
+          "name": "KT",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 15,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65026851,
+          "name": "PL",
+          "netto_weight": 502000,
+          "gross_weight": 705000,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 204,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3850104043338",
+        "3850104272691"
+      ],
+      "categories": [
+        {
+          "id": 60004471,
+          "name": "Riblje konzerve - ostalo"
+        },
+        {
+          "id": 60004467,
+          "name": "Riblje konzerve"
+        },
+        {
+          "id": 60004460,
+          "name": "Ukiseljena i konzervirana hrana"
+        },
+        {
+          "id": 60004323,
+          "name": "Hrana"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "58,76 Kn / Kg",
+      "offer": {
+        "id": 61753844,
+        "offer_category_id": 60024861,
+        "type": "DiscountByPrice",
+        "start_on": "01.10.2014.",
+        "end_on": "02.11.2014.",
+        "order_of": 0,
+        "price": {
+          "amount": 999,
+          "currency": "Kn",
+          "formatted_price": "9,99 Kn"
+        },
+        "original_price": {
+          "amount": 1199,
+          "currency": "Kn",
+          "formatted_price": "11,99 Kn"
+        },
+        "shop_types_supported": null,
+        "web_available_only": false
+      },
+      "price": {
+        "amount": 999,
+        "currency": "Kn",
+        "formatted_price": "9,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50003896,
+      "code": "02200847",
+      "name": "Francuska salata 200 g Zvijezda",
+      "description": " <br/> ",
+      "product_path": "/products/50003896/francuska-salata-200-g-zvijezda",
+      "image_path": "/images/products/022/02200847.gif",
+      "thumbnail_image_path": "/images/products/022/02200847s.gif",
+      "product_details_path": "/products/50003896",
+      "manufacturer": "ZVIJEZDA d.d. P.P. 967",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.2,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/022/02200847s.gif",
+      "image_m": "/images/products/022/02200847m.gif",
+      "image_l": "/images/products/022/02200847l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64988320,
+          "name": "KO",
+          "netto_weight": 200,
+          "gross_weight": 221,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64988321,
+          "name": "KT",
+          "netto_weight": 1200,
+          "gross_weight": 1461,
           "smaller_unit": "KO",
           "smaller_unit_factor": 6,
           "dimensions": null,
@@ -1041,45 +4417,1249 @@
           "barcode": null
         },
         {
-          "id": 64837082,
+          "id": 64988322,
           "name": "PL",
-          "netto_weight": 643000,
-          "gross_weight": 665000,
+          "netto_weight": 252000,
+          "gross_weight": 330810,
           "smaller_unit": "KT",
-          "smaller_unit_factor": 64,
+          "smaller_unit_factor": 210,
           "dimensions": null,
           "volume": null,
           "barcode": null
         }
       ],
       "barcodes": [
-        "3850158408251"
+        "3858882210362"
       ],
       "categories": [
         {
-          "id": 60005653,
-          "name": "Likeri"
+          "id": 60004327,
+          "name": "Gotove salate"
         },
         {
-          "id": 60005647,
-          "name": "Jaka alkoholna piÄ‡a"
+          "id": 60004324,
+          "name": "Mliječni proizvodi i jaja"
         },
         {
-          "id": 60005634,
-          "name": "Alkoholna piÄ‡a"
-        },
-        {
-          "id": 60005633,
-          "name": "PiÄ‡a"
+          "id": 60004323,
+          "name": "Hrana"
         }
       ],
       "active": true,
       "price_unit_of_measure": "Ko",
-      "statistical_price": "69,99 Kn / L",
+      "statistical_price": "47,45 Kn / Kg",
       "price": {
-        "amount": 6999,
+        "amount": 949,
         "currency": "Kn",
-        "formatted_price": "69,99 Kn"
+        "formatted_price": "9,49 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60047233,
+      "code": "03140885",
+      "name": "Fructal sok od cikle 0,7 l",
+      "description": "SOK CIKLA 0,7L FRUCTAL <br/> ",
+      "product_path": "/products/60047233/fructal-sok-od-cikle-0-7-l",
+      "image_path": "/images/products/031/03140885.gif",
+      "thumbnail_image_path": "/images/products/031/03140885s.gif",
+      "product_details_path": "/products/60047233",
+      "manufacturer": "ORBICO d.o.o.",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": null,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/031/03140885s.gif",
+      "image_m": "/images/products/031/03140885m.gif",
+      "image_l": "/images/products/031/03140885l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64768368,
+          "name": "KO",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64768369,
+          "name": "KT",
+          "netto_weight": 8700,
+          "gross_weight": 15000,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 12,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64768370,
+          "name": "PL",
+          "netto_weight": 375940,
+          "gross_weight": 404460,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 32,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3838945503440",
+        "3838945521161"
+      ],
+      "categories": [
+        {
+          "id": 60004443,
+          "name": "Sokovi"
+        },
+        {
+          "id": 60004440,
+          "name": "Biljni napitci, deserti i sokovi"
+        },
+        {
+          "id": 60004430,
+          "name": "Eko, dijabetski i zdrava hrana"
+        },
+        {
+          "id": 60004323,
+          "name": "Hrana"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "24,27 Kn / L",
+      "price": {
+        "amount": 1699,
+        "currency": "Kn",
+        "formatted_price": "16,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50008259,
+      "code": "04010411",
+      "name": "Kruh  kalnički 700 g Mlinar",
+      "description": " <br/> ",
+      "product_path": "/products/50008259/kruh-kalnicki-700-g-mlinar",
+      "image_path": "/images/products/040/04010411.gif",
+      "thumbnail_image_path": "/images/products/040/04010411s.gif",
+      "product_details_path": "/products/50008259",
+      "manufacturer": "MLINAR d.d.",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": null,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/040/04010411s.gif",
+      "image_m": "/images/products/040/04010411m.gif",
+      "image_l": "/images/products/040/04010411l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64990546,
+          "name": "KO",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64990547,
+          "name": "KT",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 1,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64990548,
+          "name": "PL",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 1,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3858881122932"
+      ],
+      "categories": [
+        {
+          "id": 60004661,
+          "name": "Kruh specijalni"
+        },
+        {
+          "id": 60004657,
+          "name": "Kruh"
+        },
+        {
+          "id": 60004656,
+          "name": "Pekarski proizvodi"
+        },
+        {
+          "id": 60004323,
+          "name": "Hrana"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "16,41 Kn / Kg",
+      "price": {
+        "amount": 1149,
+        "currency": "Kn",
+        "formatted_price": "11,49 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50008457,
+      "code": "04015345",
+      "name": "Kruh alpski 800 g Klara",
+      "description": " <br/> ",
+      "product_path": "/products/50008457/kruh-alpski-800-g-klara",
+      "image_path": "/images/products/040/04015345.gif",
+      "thumbnail_image_path": "/images/products/040/04015345s.gif",
+      "product_details_path": "/products/50008457",
+      "manufacturer": "ZAGREBAČKE PEKARNE KLARA dd",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": null,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/040/04015345s.gif",
+      "image_m": "/images/products/040/04015345m.gif",
+      "image_l": "/images/products/040/04015345l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64989532,
+          "name": "KO",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64989533,
+          "name": "KT",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 1,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64989534,
+          "name": "PL",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 1,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [],
+      "categories": [
+        {
+          "id": 60004661,
+          "name": "Kruh specijalni"
+        },
+        {
+          "id": 60004657,
+          "name": "Kruh"
+        },
+        {
+          "id": 60004656,
+          "name": "Pekarski proizvodi"
+        },
+        {
+          "id": 60004323,
+          "name": "Hrana"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "15,61 Kn / Kg",
+      "price": {
+        "amount": 1249,
+        "currency": "Kn",
+        "formatted_price": "12,49 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60099106,
+      "code": "90086405",
+      "name": "Lisnato tijesto 400g",
+      "description": " <br/> ",
+      "product_path": "/products/60099106/lisnato-tijesto-400g",
+      "image_path": "/images/products/900/90086405.gif",
+      "thumbnail_image_path": "/images/products/900/90086405s.gif",
+      "product_details_path": "/products/60099106",
+      "manufacturer": "ZAGREBAČKE PEKARNE KLARA dd",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.4,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/900/90086405s.gif",
+      "image_m": "/images/products/900/90086405m.gif",
+      "image_l": "/images/products/900/90086405l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 65037565,
+          "name": "KO",
+          "netto_weight": 400,
+          "gross_weight": 403,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65037566,
+          "name": "KT",
+          "netto_weight": 6400,
+          "gross_weight": 6580,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 16,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65037567,
+          "name": "PL",
+          "netto_weight": 576520,
+          "gross_weight": 616520,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 90,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3850334394248"
+      ],
+      "categories": [
+        {
+          "id": 60004648,
+          "name": "Smrznuto lisnato"
+        },
+        {
+          "id": 60004647,
+          "name": "Smrznuto tijesto i peciva"
+        },
+        {
+          "id": 60004618,
+          "name": "Smrznuta hrana"
+        },
+        {
+          "id": 60004323,
+          "name": "Hrana"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "14,98 Kn / Kg",
+      "price": {
+        "amount": 599,
+        "currency": "Kn",
+        "formatted_price": "5,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60102053,
+      "code": "90091450",
+      "name": "Mješavina za cheesecake 335 g Podravka",
+      "description": " <br/> ",
+      "product_path": "/products/60102053/mjesavina-za-cheesecake-335-g-podravka",
+      "image_path": "/images/products/900/90091450.gif",
+      "thumbnail_image_path": "/images/products/900/90091450s.gif",
+      "product_details_path": "/products/60102053",
+      "manufacturer": null,
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.335,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/900/90091450s.gif",
+      "image_m": "/images/products/900/90091450m.gif",
+      "image_l": "/images/products/900/90091450l.gif",
+      "icons": [
+        {
+          "type": "offer",
+          "image": {
+            "media_device": "/assets/icons/offer_media_device-bec534cd569c186c89c20bbd66d1267f.png",
+            "mobile": "/assets/icons/offer_mobile-15a6285fe21c62d48716b5f773c5a041.png"
+          }
+        }
+      ],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 65019631,
+          "name": "KO",
+          "netto_weight": 335,
+          "gross_weight": 386,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65019632,
+          "name": "KT",
+          "netto_weight": 2300,
+          "gross_weight": 2900,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 7,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65019633,
+          "name": "PL",
+          "netto_weight": 217650,
+          "gross_weight": 217650,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 75,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3850104271984"
+      ],
+      "categories": [
+        {
+          "id": 60004563,
+          "name": "Mješavine za kolače"
+        },
+        {
+          "id": 60004560,
+          "name": "Priprema kolača"
+        },
+        {
+          "id": 60004496,
+          "name": "Namirnice za pripremu jela"
+        },
+        {
+          "id": 60004323,
+          "name": "Hrana"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "59,67 Kn / Kg",
+      "offer": {
+        "id": 61835908,
+        "offer_category_id": 60025100,
+        "type": "DiscountByPrice",
+        "start_on": "09.10.2014.",
+        "end_on": "22.10.2014.",
+        "order_of": 0,
+        "price": {
+          "amount": 1999,
+          "currency": "Kn",
+          "formatted_price": "19,99 Kn"
+        },
+        "original_price": {
+          "amount": 1999,
+          "currency": "Kn",
+          "formatted_price": "19,99 Kn"
+        },
+        "shop_types_supported": null,
+        "web_available_only": false
+      },
+      "price": {
+        "amount": 1999,
+        "currency": "Kn",
+        "formatted_price": "19,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50010095,
+      "code": "04100439",
+      "name": "Mješavina začina Mediteran 28 g Kotanyi",
+      "description": " <br/> ",
+      "product_path": "/products/50010095/mjesavina-zacina-mediteran-28-g-kotanyi",
+      "image_path": "/images/products/041/04100439.gif",
+      "thumbnail_image_path": "/images/products/041/04100439s.gif",
+      "product_details_path": "/products/50010095",
+      "manufacturer": "KOTANYI  d.o.o.",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.025,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/041/04100439s.gif",
+      "image_m": "/images/products/041/04100439m.gif",
+      "image_l": "/images/products/041/04100439l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 65005087,
+          "name": "KO",
+          "netto_weight": 25,
+          "gross_weight": 150,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65005088,
+          "name": "KT",
+          "netto_weight": 100,
+          "gross_weight": 601,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 4,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65005089,
+          "name": "PL",
+          "netto_weight": 120000,
+          "gross_weight": 720710,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 1200,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "9001414040676"
+      ],
+      "categories": [
+        {
+          "id": 60004557,
+          "name": "Mješavine začina"
+        },
+        {
+          "id": 60004551,
+          "name": "Začini"
+        },
+        {
+          "id": 60004496,
+          "name": "Namirnice za pripremu jela"
+        },
+        {
+          "id": 60004323,
+          "name": "Hrana"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "439,60 Kn / Kg",
+      "price": {
+        "amount": 1099,
+        "currency": "Kn",
+        "formatted_price": "10,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60072352,
+      "code": "90048465",
+      "name": "Mješavina začina špageti bolognese 60g Maggi",
+      "description": " <br/> ",
+      "product_path": "/products/60072352/mjesavina-zacina-spageti-bolognese-60g-maggi",
+      "image_path": "/images/products/900/90048465.gif",
+      "thumbnail_image_path": "/images/products/900/90048465s.gif",
+      "product_details_path": "/products/60072352",
+      "manufacturer": "NESTLE ADRIATIC D.O.O",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.06,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/900/90048465s.gif",
+      "image_m": "/images/products/900/90048465m.gif",
+      "image_l": "/images/products/900/90048465l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 65026879,
+          "name": "KO",
+          "netto_weight": 60,
+          "gross_weight": 65,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65026880,
+          "name": "KT",
+          "netto_weight": 840,
+          "gross_weight": 910,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 14,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65026881,
+          "name": "PL",
+          "netto_weight": 159600,
+          "gross_weight": 172900,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 190,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "8607100570611"
+      ],
+      "categories": [
+        {
+          "id": 60004558,
+          "name": "Začini"
+        },
+        {
+          "id": 60004551,
+          "name": "Začini"
+        },
+        {
+          "id": 60004496,
+          "name": "Namirnice za pripremu jela"
+        },
+        {
+          "id": 60004323,
+          "name": "Hrana"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "149,83 Kn / Kg",
+      "price": {
+        "amount": 899,
+        "currency": "Kn",
+        "formatted_price": "8,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60026106,
+      "code": "02334325",
+      "name": "Mliječni desert u čašici 57,5 g K Plus",
+      "description": " <br/> ",
+      "product_path": "/products/60026106/mlijecni-desert-u-casici-57-5-g-k-plus",
+      "image_path": "/images/products/023/02334325.gif",
+      "thumbnail_image_path": "/images/products/023/02334325s.gif",
+      "product_details_path": "/products/60026106",
+      "manufacturer": "ZOTT SE & Co.KG",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.06,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/023/02334325s.gif",
+      "image_m": "/images/products/023/02334325m.gif",
+      "image_l": "/images/products/023/02334325l.gif",
+      "icons": [
+        {
+          "type": "offer",
+          "image": {
+            "media_device": "/assets/icons/offer_media_device-bec534cd569c186c89c20bbd66d1267f.png",
+            "mobile": "/assets/icons/offer_mobile-15a6285fe21c62d48716b5f773c5a041.png"
+          }
+        }
+      ],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 65050484,
+          "name": "KO",
+          "netto_weight": 60,
+          "gross_weight": 58,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65050485,
+          "name": "KT",
+          "netto_weight": 5520,
+          "gross_weight": 5762,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 48,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65050486,
+          "name": "PL",
+          "netto_weight": 1987200,
+          "gross_weight": 2073600,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 180,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "0000040338187",
+        "40338187"
+      ],
+      "categories": [
+        {
+          "id": 60004355,
+          "name": "Mliječni deserti"
+        },
+        {
+          "id": 60004353,
+          "name": "Mliječni deserti"
+        },
+        {
+          "id": 60004324,
+          "name": "Mliječni proizvodi i jaja"
+        },
+        {
+          "id": 60004323,
+          "name": "Hrana"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "20,69 Kn / Kg",
+      "offer": {
+        "id": 61855026,
+        "offer_category_id": 60025160,
+        "type": "DiscountByPrice",
+        "start_on": "16.10.2014.",
+        "end_on": "22.10.2014.",
+        "order_of": 0,
+        "price": {
+          "amount": 119,
+          "currency": "Kn",
+          "formatted_price": "1,19 Kn"
+        },
+        "original_price": {
+          "amount": 199,
+          "currency": "Kn",
+          "formatted_price": "1,99 Kn"
+        },
+        "shop_types_supported": null,
+        "web_available_only": false
+      },
+      "price": {
+        "amount": 119,
+        "currency": "Kn",
+        "formatted_price": "1,19 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60109323,
+      "code": "90142326",
+      "name": "Paleta Jogo jogurt Dukat",
+      "description": " <br/> ",
+      "product_path": "/products/60109323/paleta-jogo-jogurt-dukat",
+      "image_path": "/images/products/901/90142326.gif",
+      "thumbnail_image_path": "/images/products/901/90142326s.gif",
+      "product_details_path": "/products/60109323",
+      "manufacturer": "DUKAT D.D. MLIJEČNA INDUSTRIJA",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": null,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": false,
+      "requires_deposit_packaging": false,
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64931904,
+          "name": "KO",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64931905,
+          "name": "KT",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 1,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64931906,
+          "name": "PL",
+          "netto_weight": 456000,
+          "gross_weight": 523025,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 1,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "03850334414731",
+        "3850334414731"
+      ],
+      "categories": [
+        {
+          "id": 60004343,
+          "name": "Jogurt voćni"
+        },
+        {
+          "id": 60004341,
+          "name": "Jogurt i probiotici"
+        },
+        {
+          "id": 60004324,
+          "name": "Mliječni proizvodi i jaja"
+        },
+        {
+          "id": 60004323,
+          "name": "Hrana"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "4.172,52 Kn / Ko",
+      "price": {
+        "amount": 417252,
+        "currency": "Kn",
+        "formatted_price": "4.172,52 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50002421,
+      "code": "02044188",
+      "name": "Posebna pureća s paprikom 500 g Vindija",
+      "description": " <br/> ",
+      "product_path": "/products/50002421/posebna-pureca-s-paprikom-500-g-vindija",
+      "image_path": "/images/products/020/02044188.gif",
+      "thumbnail_image_path": "/images/products/020/02044188s.gif",
+      "product_details_path": "/products/50002421",
+      "manufacturer": "VINDIJA d.d.MESNI PROGRAM \"KOKA VIR VINDON\"",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": null,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/020/02044188s.gif",
+      "image_m": "/images/products/020/02044188m.gif",
+      "image_l": "/images/products/020/02044188l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 64983643,
+          "name": "KO",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64983644,
+          "name": "KT",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 12,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 64983645,
+          "name": "PL",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 1,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3850159128356"
+      ],
+      "categories": [
+        {
+          "id": 60004581,
+          "name": "Posebna pureća"
+        },
+        {
+          "id": 60004575,
+          "name": "Mesne prerađevine od crvenog mesa"
+        },
+        {
+          "id": 60004574,
+          "name": "Mesne prerađevine"
+        },
+        {
+          "id": 60004323,
+          "name": "Hrana"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "29,98 Kn / Kg",
+      "price": {
+        "amount": 1499,
+        "currency": "Kn",
+        "formatted_price": "14,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60094207,
+      "code": "90080308",
+      "name": "Sladoled parfe 85g Ledo",
+      "description": " <br/> ",
+      "product_path": "/products/60094207/sladoled-parfe-85g-ledo",
+      "image_path": "/images/products/900/90080308.gif",
+      "thumbnail_image_path": "/images/products/900/90080308s.gif",
+      "product_details_path": "/products/60094207",
+      "manufacturer": "LEDO TVORNICA SLADOLEDA",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.085,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": false,
+      "requires_deposit_packaging": false,
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 65020099,
+          "name": "KO",
+          "netto_weight": 85,
+          "gross_weight": 105,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65020100,
+          "name": "KT",
+          "netto_weight": 11910,
+          "gross_weight": 2088,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 20,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65020101,
+          "name": "PL",
+          "netto_weight": 225500,
+          "gross_weight": 247500,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 108,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3850116998411"
+      ],
+      "categories": [
+        {
+          "id": 60004633,
+          "name": "Sladoled - ostalo"
+        },
+        {
+          "id": 60004627,
+          "name": "Sladoled"
+        },
+        {
+          "id": 60004618,
+          "name": "Smrznuta hrana"
+        },
+        {
+          "id": 60004323,
+          "name": "Hrana"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "94,12 Kn / Kg",
+      "price": {
+        "amount": 800,
+        "currency": "Kn",
+        "formatted_price": "8,00 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 60099978,
+      "code": "90087518",
+      "name": "Tic Tac Breeze jabuka 23,9g",
+      "description": " <br/> ",
+      "product_path": "/products/60099978/tic-tac-breeze-jabuka-23-9g",
+      "image_path": "/images/products/900/90087518.gif",
+      "thumbnail_image_path": "/images/products/900/90087518s.gif",
+      "product_details_path": "/products/60099978",
+      "manufacturer": "FERRERO S.P.A.",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.023,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/900/90087518s.gif",
+      "image_m": "/images/products/900/90087518m.gif",
+      "image_l": "/images/products/900/90087518l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 65020267,
+          "name": "KO",
+          "netto_weight": 23,
+          "gross_weight": 38,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65020268,
+          "name": "KT",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 10,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65020269,
+          "name": "PL",
+          "netto_weight": null,
+          "gross_weight": null,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 960,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "8000500197745"
+      ],
+      "categories": [
+        {
+          "id": 60004412,
+          "name": "Bomboni - dražeje"
+        },
+        {
+          "id": 60004410,
+          "name": "Bomboni"
+        },
+        {
+          "id": 60004389,
+          "name": "Slatkiši i grickalice"
+        },
+        {
+          "id": 60004323,
+          "name": "Hrana"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "376,15 Kn / Kg",
+      "price": {
+        "amount": 899,
+        "currency": "Kn",
+        "formatted_price": "8,99 Kn"
+      },
+      "favorite": false
+    },
+    {
+      "id": 50011356,
+      "code": "04165134",
+      "name": "Vegeta Twist za salate 170G Podravka",
+      "description": " <br/> ",
+      "product_path": "/products/50011356/vegeta-twist-za-salate-170g-podravka",
+      "image_path": "/images/products/041/04165134.gif",
+      "thumbnail_image_path": "/images/products/041/04165134s.gif",
+      "product_details_path": "/products/50011356",
+      "manufacturer": "PODRAVKA d.d.",
+      "sales_unit_of_measure": "Ko",
+      "quantity_step": 1.0,
+      "min_order_quantity": 1.0,
+      "netto_weight_factor": 0.16,
+      "sliceable": false,
+      "catch_weight": 0,
+      "has_image": true,
+      "requires_deposit_packaging": false,
+      "image_s": "/images/products/041/04165134s.gif",
+      "image_m": "/images/products/041/04165134m.gif",
+      "image_l": "/images/products/041/04165134l.gif",
+      "icons": [],
+      "lifetime": null,
+      "product_uoms": [
+        {
+          "id": 65001088,
+          "name": "KO",
+          "netto_weight": 160,
+          "gross_weight": 190,
+          "smaller_unit": null,
+          "smaller_unit_factor": null,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65001089,
+          "name": "KT",
+          "netto_weight": 1920,
+          "gross_weight": 2338,
+          "smaller_unit": "KO",
+          "smaller_unit_factor": 12,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        },
+        {
+          "id": 65001090,
+          "name": "PL",
+          "netto_weight": 268800,
+          "gross_weight": 327320,
+          "smaller_unit": "KT",
+          "smaller_unit_factor": 140,
+          "dimensions": null,
+          "volume": null,
+          "barcode": null
+        }
+      ],
+      "barcodes": [
+        "3850104210532"
+      ],
+      "categories": [
+        {
+          "id": 60004557,
+          "name": "Mješavine začina"
+        },
+        {
+          "id": 60004551,
+          "name": "Začini"
+        },
+        {
+          "id": 60004496,
+          "name": "Namirnice za pripremu jela"
+        },
+        {
+          "id": 60004323,
+          "name": "Hrana"
+        }
+      ],
+      "active": true,
+      "price_unit_of_measure": "Ko",
+      "statistical_price": "81,19 Kn / Kg",
+      "price": {
+        "amount": 1299,
+        "currency": "Kn",
+        "formatted_price": "12,99 Kn"
       },
       "favorite": false
     }

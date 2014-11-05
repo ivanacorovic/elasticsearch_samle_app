@@ -113,6 +113,13 @@ Then in terminal, run:
 
     bundle exec rake environment elasticsearch:import:all
 
+This will add all the models to Elasticsearch index.
+If you want just products:
+
+    bundle exec rake environment elasticsearch:import:model CLASS=Product
+
+The latter one is what we need here.
+
 ###Test
 
 In console:
