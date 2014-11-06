@@ -29,23 +29,23 @@ However, if we need additional settings, like in this case we do, this should be
               "filter": {
                   "my_stopwords": {
                       "type":       "stop",
-                      "stopwords": [ "l", "g" ]
+                      "stopwords": [ "l", "g", "kg", "ml" ]
                   },
                  "filter_amount": {
                       "type": "pattern_replace",
-                      "pattern": "[\\d]+([\\.,][\\d]+)?",
+                      "pattern": "[\\d]+([\\.,][\\d]+)?[\\w]*",
                       "replacement": ""
                   }
                 },
                 "analyzer": {
-                    "my_analyzer": {
+                    "default_search": {
                         "type":         "custom",
                         "tokenizer":    "standard",
                         "filter":       [ "lowercase", "my_stopwords", "filter_amount"]
                 }}
       }}}
 
-This creates index products and sets the analyzer.
+This creates index products and sets default search analyzer.
 
 ###Create mapping for products index
 
@@ -78,7 +78,7 @@ In Sense:
 
 Test it in Sense:
 
-    GET /products/_analyze?analyzer=my_analyzer&text=Kafa 1,95 l 200 g
+    GET /products/_analyze?analyzer=default_search&text=Kafa 1,95 l 200 g
 
 It should return:
 
@@ -128,14 +128,16 @@ In console:
 
 In Sense:
 
+    GET   products/_count
+
+
     GET products/_search
     {
       "query": {
         "fuzzy_like_this_field" : {
           "_all":  {
-            "like_text": "alkohol",
-            "analyzer": "my_analyzer"
-
+            "like_text": "Ledeni Ä\\u008Daj 1 l limun Podravka"
+            //this is where you'd put "analyzer": "some_analyzer"
           }
         }
       },
@@ -145,7 +147,7 @@ In Sense:
                 "path" : "categories"
             },
             "aggs": {
-               "name_count" : {
+               "categories_count" : {
                  "terms" : { 
                    "field" : "categories.id"
                  }
@@ -158,11 +160,32 @@ In Sense:
 
 ###Get the most similar category
 
-    response=Product.search('{"query": {"fuzzy_like_this_field": {"_all": {"like_text": "alkohol", "analyzer": "my_analyzer"}}},"aggs": {"categories": {"nested": {"path": "categories"},"aggs": { "group_by_categories": { "terms": {"field": "categories.id"}}}}}}').response
+In Sense:
 
-    response.aggregations["categories"]["group_by_categories"]["buckets"].first["key"]
+    GET /products/_search
+    {
+        "query": {
+            "multi_match": {
+                "query":   "tic tac jabuka",
+                "type":        "cross_fields",
+                "fields":      [ "name", "categories.name^10"]
+            }
+        }
+    }
 
-    key = response.aggregations["categories"]["group_by_categories"]["buckets"][0..5].map {|x| x["key"]}.map{|n| Category.find_by(key: n).name}
+    categories.name is boosted up to 10.
 
+In Rails:
 
+    def self.suggest_categories_for(name)
+      response = search('{"query": {"multi_match": {"query": "' + "#{name}" + '", "type": "cross_fields", "fields":[ "name", "categories.name^10"]}}}').response 
+      key = response["hits"]["hits"].to_a[0..5].map {|x| x["_source"]["categories"].to_s.split.to_a[1].split("=")[1].to_i}.uniq.map{|n| Category.find_by(key: n).name unless Category.find_by(key: n).nil?} unless response["hits"]["hits"].nil?
+      return key
+    end
+
+Since our analyzer is default_search, it is included by default.
+
+We call this method like this:
+
+    Product.suggest_categories_for("Product name we'd like to categorize")
 
